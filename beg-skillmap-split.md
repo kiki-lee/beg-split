@@ -3,7 +3,7 @@
 * description: Learn to create arcade games of your own by completing tutorials that focus on greeting cards, a clicker game, and a collector game starring a dinosuar that's determined to save dino babies!
 * infoUrl: skillmap/educator-info/basic-map-info
 * bannerUrl: /static/skillmap/backgrounds/beg-map-tile.png
-* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/beg-comp.png  
+* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/beg-comp-light.png  
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
 * tertiarycolor: #87f2ff
