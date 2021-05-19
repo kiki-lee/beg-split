@@ -6,7 +6,7 @@
 * backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/beg-comp.png  
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
-* tertiarycolor: #0befe3
+* tertiarycolor: #87f2ff
 * highlightcolor: #ffffff
 * completednodecolor: #249ca3
 * allowcodecarryover: true
