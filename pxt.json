@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "beg-skillmap-split.md"
+        "beg-skillmap-split.md",
+        "space.md"
     ],
     "testFiles": [
         "test.ts"
