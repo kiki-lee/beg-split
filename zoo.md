@@ -2,7 +2,7 @@
 * name: A Zookeeper's Adventure!
 * description: Ever wonder what it takes to be a zookeeper? The answer may surprise you...
 * bannerurl: /static/skillmap/zoo/zoo-welcome.png
-* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/MicrosoftTeams-image.png 
+* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/zookeeper-bg.png 
 * primarycolor: #2EA9B0
 * secondarycolor: #fff609
 * tertiarycolor: #78DC52
