@@ -4,9 +4,9 @@
 * bannerurl: /static/skillmap/zoo/zoo-welcome.png
 * backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/Zookeeper.png 
 * primarycolor: #2EA9B0
-* secondarycolor: #F392BD
+* secondarycolor: #fff609
 * tertiarycolor: #78DC52
-* highlightcolor: #FAED28
+* highlightcolor: #FFFFFF
 * completednodecolor: #c1aba3
 * tags: easy, entertainment
 
