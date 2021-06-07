@@ -1,82 +1,82 @@
-# Zookeepers Day
-* name: A Zookeeper's Adventure!
-* description: Ever wonder what it takes to be a zookeeper? The answer may surprise you...
-* bannerurl: /static/skillmap/zoo/zoo-welcome.png
-* backgroundurl: /static/skillmap/backgrounds/zookeeper-bg.png 
+# Build a Space Explorer
+* name: Build a Space Explorer
+* description: Learn to make a Galga-style game by following this short series of tutorials.
+* infoUrl: skillmap/educator-info/int-map-info
+* bannerUrl: /static/skillmap/space/spacet4.gif
+* backgroundurl: /static/skillmap/backgrounds/space-comp.png
 * primarycolor: #2EA9B0
-* secondarycolor: #fff609
-* tertiarycolor: #78DC52
+* secondarycolor: #d6f7fa
+* tertiarycolor: #5d416b
 * highlightcolor: #FFFFFF
-* completednodecolor: #c1aba3
-* tags: easy, entertainment
+* completednodecolor: #504c52
+* tags: intermediate, space, projectiles
+* alternatesources: github:https://github.com/microsoft/pxt-skillmap-sample/skillmap.md
 
-## zookeeper
-* name: Zookeeper Certification
 
-### zoo-activity1
+## space
+* name: Design a Space Explorer
+* description: Let's explore the depths of space! We'll add a vessel for space travel, create some enemies, and make sure we have plenty of fuel for the journey.
+* completionUrl: /static/skillmap/certificates/design-a-space-explorer.pdf
+
+### space-activity1
 * allowcodecarryover: false
-* name: Zookeeper Hut
+
+
+* name: Prepare Your Ship
 * type: tutorial
-* next: zoo-activity2, zoo-activity2-2
-* description: It's time to start your new job as a zookeeper.  What could go wrong?
-* url: /skillmap/zoo/zoo1
-* imageurl: /static/skillmap/zoo/zoo1.gif
-* tags: easy, sprite edit, controller, camera
+* description: Get your spaceship ready for an adventure!
+* tags: easy, sprites, scroller
+* next: space-activity2, pusher1
 
-### zoo-activity2
-* allowcodecarryover: false
-* name: By Land
+* url: /skillmap/space/space1
+* imageUrl: /static/skillmap/space/spacet1.gif
+
+### space-activity2
+
+* name: Ready, aim, fire!
 * type: tutorial
-* description: Set up a zoo exhibit! Let's take a stroll to the mammal enclosures and get your first exhibit all set up.
-* url: /skillmap/zoo/zoo2
-* imageurl: /static/skillmap/zoo/zoo2.gif
-* tags: easy, movement, random
-* next: zoo-activity3
+* description: Equip your ship with projectiles and special effects.
+* tags: easy, projectiles, kinds
+* next: pusher2, space-activity3
 
-### zoo-activity2-2
-* allowcodecarryover: false
-* name: By Sea
+* url: /skillmap/space/space2
+* imageUrl: /static/skillmap/space/spacet2.gif
+
+### space-activity3
+
+* name: Here comes trouble!
+* description: Watch out for danger! Add enemies and countdown lives in your game.
 * type: tutorial
-* description: It's aquarium time! Let's go to the ocean exhibits and design some sea creatures.
-* url: /skillmap/zoo/zoo2a
-* imageurl: /static/skillmap/zoo/zoo2a.gif
-* tags: easy, movement, random
-* next: zoo-activity2
+* tags: intermediate, enemies, kinds
+* next: space-activity4
 
-### zoo-activity3
-* allowcodecarryover: false
-* name: Penguins
+* url: /skillmap/space/space3
+* imageUrl: /static/skillmap/space/spacet3.gif
+
+### space-activity4
+
+* name: Fuel Up!
 * type: tutorial
-* description: It's penguin pandimonium! Can you help contain the creatures before you carry on with your day?
-* url: /skillmap/zoo/zoo3
-* imageurl: /static/skillmap/zoo/zoo3.gif
-* tags: easy, positioning, debugging
-* next: zoo-activity4
+* description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
+* tags: intermediate, extensions
+* next: space-cert-1
 
-### zoo-activity4
-* allowcodecarryover: false
-* name: Feed the Panda
-* type: tutorial
-* description: It's feeding time! Grab your bucket of bamboo and head over to the panda enclosure.
-* url: /skillmap/zoo/zoo4
-* imageurl: /static/skillmap/zoo/zoo4.gif
-* tags: easy, overlaps, events
-* next: zoo-activity5
+* url: /skillmap/space/space4
+* imageUrl: /static/skillmap/space/spacet4.gif
 
-### zoo-activity5
-* allowcodecarryover: false
-* name: Quail Hatching
-* type: tutorial
-* description: Quail! Everywhere! Use code to catch these speedy birds!
-* url: /skillmap/zoo/zoo5
-* imageurl: /static/skillmap/zoo/zoo5.gif
-* tags: intermediate, overlaps, destroy
-* next: zoo-complete
-
-### zoo-complete
-* allowcodecarryover: false
+### space-cert-1
 * name: Congrats!
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/zookeeper-license.pdf
-* imageurl: /static/skillmap/zoo/zookeeper-license.png
+* imageUrl: /static/skillmap/certificates/space-cert.png
+* url: /static/skillmap/certificates/design-a-space-explorer.pdf
+
+
+### pusher1
+* name: Blank node
+* kind: layout
+
+### pusher2
+* name: Blank node
+* kind: layout
+
