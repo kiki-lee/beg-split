@@ -48,7 +48,7 @@
 * description: Watch out for danger! Add enemies and countdown lives in your game.
 * type: tutorial
 * tags: intermediate, enemies, kinds
-* next: space-activity4
+* next: space-activity4, space-activity4a
 
 * url: /skillmap/space/space3
 * imageUrl: /static/skillmap/space/spacet3.gif
@@ -63,6 +63,17 @@
 
 * url: /skillmap/space/space4
 * imageUrl: /static/skillmap/space/spacet4.gif
+
+### space-activity4a
+
+* name: All Shook Up
+* type: tutorial
+* description: Animate your ship 
+* tags: intermediate, animations
+* next: space-activity4
+
+* url: /skillmap/space/space4a
+* imageUrl: /static/skillmap/space/spacet4a.gif
 
 ### space-cert-1
 * name: Congrats!
