@@ -75,6 +75,28 @@
 * url: /skillmap/space/space4a
 * imageUrl: /static/skillmap/space/spacet4a.gif
 
+### space-activity5
+
+* name: Level Up!
+* type: tutorial
+* description: Learn how to automatically switch to a new level when the player gains an achievement.
+* tags: intermediate, forever
+* next: space-activity6
+
+* url: /skillmap/space/space5
+* imageUrl: /static/skillmap/space/spacet5.gif
+
+### space-activity6
+
+* name: The Art of Darts
+* type: tutorial
+* description: Use arrays to switch up the kinds of darts fired from your ship.
+* tags: intermediate, arrays, lists
+* next: space-cert-1
+
+* url: /skillmap/space/space6
+* imageUrl: /static/skillmap/space/spacet6.gif
+
 ### space-cert-1
 * name: Congrats!
 * kind: completion
