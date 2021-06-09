@@ -12,7 +12,8 @@
         "assets.json",
         "beg-skillmap-split.md",
         "space.md",
-        "zoo.md"
+        "zoo.md",
+        "shark.md"
     ],
     "testFiles": [
         "test.ts"
