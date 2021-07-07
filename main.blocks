@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"/>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="}esLH;(]k?Qeyw;CfY;5">mySprite</variable><variable type="KIND_SpriteKind" id="~mC1[S/eN1iGUMz=)K//">Player</variable><variable type="KIND_SpriteKind" id="=g1USsP)_k.Q%[U%W=je">Projectile</variable><variable type="KIND_SpriteKind" id="MojZ,!-[~H]-!^a[=I8I">Food</variable><variable type="KIND_SpriteKind" id="c03QU^[4hP(?Er;6y#0g">Enemy</variable></variables><block type="pxt-on-start" id="xJ#4;qwm7!(]*fUw*KED" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="yJZDtYzbwbA+~|@zP7n8"><field name="VAR" id="}esLH;(]k?Qeyw;CfY;5">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="[fto_#`#HQ=Or@=yrPFG"><value name="img"><shadow type="screen_image_picker" id="ZT7VvS!,a?p#wMxix7qG"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . 2 2 2 2 2 2 2 2 . . 
+. . . . . 2 c 2 2 2 2 2 2 4 2 . 
+. . . . 2 c c 2 2 2 2 2 2 4 c 2 
+. . d 2 4 c c 2 4 4 4 4 4 4 c c 
+. d 2 2 4 c b e e e e e e e 2 c 
+. 2 2 2 4 b e e b b b e b b e 2 
+. 2 2 2 2 2 e b b b b e b b b e 
+. 2 2 2 2 e 2 2 2 2 2 e 2 2 2 e 
+. 2 d d 2 e f e e e f e e e e e 
+. d d 2 e e e f e e f e e e e e 
+. e e e e e e e f f f e e e e e 
+. e e e e f f f e e e e f f f f 
+. . . e f f f f f e e f f f f f 
+. . . . f f f f . . . . f f f . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="iD~b=vh*:,*toh}=E~IF"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="Tv.{$VzaJey(6._OLmI-"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="FB%e)utO-TW(.N@EdN,2"><field name="VAR" id="}esLH;(]k?Qeyw;CfY;5">mySprite</field></block></value></block></next></block></statement></block></xml>
