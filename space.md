@@ -3,7 +3,7 @@
 * description: Learn to make a Galga-style game by following this short series of tutorials.
 * infoUrl: skillmap/educator-info/int-map-info
 * bannerUrl: /static/skillmap/space/spacet6.gif
-* backgroundurl: https://github.com/kiki-lee/beginner-skillmap-beta/blob/master/space-comp.gif
+* backgroundurl: https://raw.githubusercontent.com/kiki-lee/beginner-skillmap-beta/master/space-comp.gif
 * primarycolor: #2EA9B0
 * secondarycolor: #d6f7fa
 * tertiarycolor: #5d416b
