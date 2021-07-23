@@ -47,6 +47,16 @@
 * imageUrl: /static/skillmap/space/spacet3.gif
 * position: 1 1
 
+### space-activity4a
+* name: All Shook Up
+* type: tutorial
+* description: Animate your ship 
+* tags: intermediate, animations
+* next: space-activity4
+* url: /skillmap/space/space4a
+* imageUrl: /static/skillmap/space/spacet4a.gif
+* position: 0 2
+
 ### space-activity4
 * name: Fuel Up!
 * type: tutorial
@@ -57,15 +67,6 @@
 * imageUrl: /static/skillmap/space/spacet4.gif
 * position: 2 1
 
-### space-activity4a
-* name: All Shook Up
-* type: tutorial
-* description: Animate your ship 
-* tags: intermediate, animations
-* next: space-activity4
-* url: /skillmap/space/space4a
-* imageUrl: /static/skillmap/space/spacet4a.gif
-* position: 1 2
 
 ### space-activity5
 * name: Level Up!
@@ -85,7 +86,7 @@
 * next: space-cert-1
 * url: /skillmap/space/space6
 * imageUrl: /static/skillmap/space/spacet6.gif
-* position: 4 1
+* position: 5 2
 
 ### space-cert-1
 * name: Congrats!
