@@ -32,7 +32,7 @@
 * type: tutorial
 * description: Equip your ship with projectiles and special effects.
 * tags: easy, projectiles, kinds
-* next: pusher2, space-activity3
+* next: space-activity3
 * url: /skillmap/space/space2
 * imageUrl: /static/skillmap/space/spacet2.gif
 * position: 1 0
