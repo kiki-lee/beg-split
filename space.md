@@ -45,7 +45,7 @@
 * next: space-activity4, space-activity4a
 * url: /skillmap/space/space3
 * imageUrl: /static/skillmap/space/spacet3.gif
-* position: 1 1
+* position: 2 0
 
 ### space-activity4a
 * name: All Shook Up
@@ -65,7 +65,7 @@
 * next: space-activity5
 * url: /skillmap/space/space4
 * imageUrl: /static/skillmap/space/spacet4.gif
-* position: 2 1
+* position: 3 0
 
 
 ### space-activity5
@@ -76,7 +76,7 @@
 * next: space-activity6, space-cert-1
 * url: /skillmap/space/space5
 * imageUrl: /static/skillmap/space/spacet5.gif
-* position: 3 0
+* position: 3 1
 
 ### space-activity6
 * name: The Art of Darts
@@ -86,7 +86,7 @@
 * next: space-cert-1
 * url: /skillmap/space/space6
 * imageUrl: /static/skillmap/space/spacet6.gif
-* position: 5 2
+* position: 4 2
 
 ### space-cert-1
 * name: Congrats!
@@ -94,6 +94,6 @@
 * type: certificate
 * imageUrl: /static/skillmap/certificates/space-cert.png
 * url: /static/skillmap/certificates/design-a-space-explorer.pdf
-* position: 4 0
+* position: 4 1
 
 
