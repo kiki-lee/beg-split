@@ -86,7 +86,7 @@
 * next: space-cert-1
 * url: /skillmap/space/space6
 * imageUrl: /static/skillmap/space/spacet6.gif
-* position: 5 2
+* position: 5 1
 
 ### space-cert-1
 * name: Congrats!
