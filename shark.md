@@ -22,6 +22,7 @@
 * imageUrl: /static/skillmap/shark/shark1.gif
 * next: shark2, shark1a
 * position: 0 0
+* edges: 0 1, 0 2
 
 ### shark1a
 * name: 1a. Beware the Enemy
@@ -50,7 +51,9 @@
 * url: /skillmap/shark/shark1c
 * tags: easy, enemies
 * imageUrl: /static/skillmap/shark/shark1c.gif
+* next: shark2
 * position: 3 2
+* edges: 3 1, 1 1
 
 
 
