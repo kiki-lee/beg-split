@@ -77,7 +77,7 @@
 * next: space-activity6, space-cert-1
 * url: /skillmap/space/space5
 * imageUrl: /static/skillmap/space/spacet5.gif
-* position: 3 1
+* position: 4 0
 
 ### space-activity6
 * name: The Art of Darts
@@ -87,7 +87,7 @@
 * next: space-cert-1
 * url: /skillmap/space/space6
 * imageUrl: /static/skillmap/space/spacet6.gif
-* position: 4 2
+* position: 5 2
 
 ### space-cert-1
 * name: Congrats!
@@ -95,6 +95,6 @@
 * type: certificate
 * imageUrl: /static/skillmap/certificates/space-cert.png
 * url: /static/skillmap/certificates/design-a-space-explorer.pdf
-* position: 4 1
+* position: 5 0
 
 
