@@ -25,7 +25,7 @@
 * next: space-activity2
 * url: /skillmap/space/space1
 * imageUrl: /static/skillmap/space/spacet1.gif
-* position: 0 0
+* position: 0 1
 
 ### space-activity2
 * name: Ready, aim, fire!
@@ -35,7 +35,7 @@
 * next: space-activity3
 * url: /skillmap/space/space2
 * imageUrl: /static/skillmap/space/spacet2.gif
-* position: 1 0
+* position: 1 1
 
 ### space-activity3
 * name: Here comes trouble!
@@ -55,7 +55,7 @@
 * next: space-activity4
 * url: /skillmap/space/space4a
 * imageUrl: /static/skillmap/space/spacet4a.gif
-* position: 0 2
+* position: 1 2
 
 ### space-activity4
 * name: Fuel Up!
