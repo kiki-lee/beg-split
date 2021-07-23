@@ -55,8 +55,7 @@
 * next: space-activity4
 * url: /skillmap/space/space4a
 * imageUrl: /static/skillmap/space/spacet4a.gif
-* position: 1 2
-* edges: 1 3, 2 3
+* position: 2 2
 
 ### space-activity4
 * name: Fuel Up!
