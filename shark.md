@@ -22,7 +22,6 @@
 * imageUrl: /static/skillmap/shark/shark1.gif
 * next: shark2, shark1a
 * position: 0 0
-* edges: 0 1, 0 2
 
 ### shark1a
 * name: 1a. Beware the Enemy
@@ -32,7 +31,7 @@
 * tags: easy, design, background
 * imageUrl: /static/skillmap/shark/shark1a.gif
 * next: shark1b
-* position: 1 2
+* position: 0 2
 
 ### shark1b
 * name: 1b. Enemies Attack!
@@ -42,7 +41,7 @@
 * tags: easy, enemies, overlap, lives
 * imageUrl: /static/skillmap/shark/shark1b.gif
 * next: shark1c
-* position: 2 2
+* position: 1 2
 
 ### shark1c
 * name: 1c. Add Enemies
@@ -52,8 +51,8 @@
 * tags: easy, enemies
 * imageUrl: /static/skillmap/shark/shark1c.gif
 * next: shark2
-* position: 3 2
-* edges: 3 1, 1 1
+* position: 2 2
+* edges: 2 1, 1 1
 
 
 
