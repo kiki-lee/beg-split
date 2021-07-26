@@ -13,7 +13,8 @@
         "beg-skillmap-split.md",
         "space.md",
         "zoo.md",
-        "shark.md"
+        "shark.md",
+        "jungle.md"
     ],
     "testFiles": [
         "test.ts"
