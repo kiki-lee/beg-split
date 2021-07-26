@@ -1,4 +1,4 @@
-# jungle
+# Jungle Monkey Platformer
 * name: Jungle Monkey Platformer
 * description: Learn how to create a sidescrolling platformer by following this short series of tutorials.
 * infoUrl: skillmap/educator-info/int-map-info
@@ -11,13 +11,16 @@
 * alternatesources: github:https://github.com/microsoft/pxt-skillmap-sample/skillmap.md
 
 
-## platformer
-* name: Jungle Monkey Platformer
 
+## Build a Platformer Game!
+* name: Learn to Make a Platformer
+* description: Learn how to create a sidescrolling platformer by following this short series of tutorials.
 
-### jungle1
+### platformer-activity1
 * allowcodecarryover: false
-* name: Jungle Monkey Jump
+
+
+* name: Simple Platformer
 * type: tutorial
 * description: Learn how to make a player character that can jump and move around a tilemap.
 * url: /skillmap/platformer/activity1
