@@ -13,7 +13,7 @@
 
 ## platformer
 * name: Jungle Monkey Platformer
-* description: Learn how to create a sidescrolling platformer by following this short series of tutorials.
+
 
 ### jungle1
 * allowcodecarryover: false
