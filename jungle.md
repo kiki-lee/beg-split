@@ -72,7 +72,7 @@
 * type: tutorial
 * description: Animate your monkey.
 * url: /skillmap/jungle/jungle6
-* imageUrl: /static/skillmap/jungle/jungle6.gif
+* imageUrl: /static/skillmap/jungle/jungle5.gif
 * tags: intermediate, AI, physics
 * next: jungle7
 * position: 2 1
@@ -83,7 +83,7 @@
 * type: tutorial
 * description: Add physics and AI to the enemies in your game.
 * url: /skillmap/jungle/jungle7
-* imageUrl: /static/skillmap/jungle/jungle7.gif
+* imageUrl: /static/skillmap/jungle/jungle5.gif
 * tags: intermediate, AI, physics
 * next: jungle8, platformer-cert-1
 * position: 3 1
@@ -94,7 +94,7 @@
 * type: tutorial
 * description: Add physics and AI to the enemies in your game.
 * url: /skillmap/jungle/jungle8
-* imageUrl: /static/skillmap/jungle/jungle8.gif
+* imageUrl: /static/skillmap/jungle/jungle5.gif
 * tags: intermediate, AI, physics
 * position: 4 0
 
