@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.33/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.54","target":"arcade","targetVersion":"1.5.33","repo":"kiki-lee/beg-split"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.33/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.55","target":"arcade","targetVersion":"1.5.33","repo":"kiki-lee/beg-split"}
 // total=1149616 new=5.58% cached=88.90% other=5.52%
 (function (ectx) {
 'use strict';
@@ -385,7 +385,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P33734(s) {
+function _main___P33993(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -750,13 +750,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P33734.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
-_main___P33734.continuations = [  ]
+_main___P33993.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
+_main___P33993.continuations = [  ]
 
-function _main___P33734_mk(s) {
+function _main___P33993_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P33734, depth: s.depth + 1,
+        parent: s, fn: _main___P33993, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -38945,5 +38945,5 @@ const sprites_StaticObstacle__C19300_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, ["mySprite___20919"])
 
-return _main___P33734
+return _main___P33993
 })
