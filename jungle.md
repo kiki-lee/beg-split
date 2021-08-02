@@ -14,12 +14,9 @@
 
 ## Build a Platformer Game!
 * name: Learn to Make a Platformer
-* description: Learn how to create a sidescrolling platformer by following this short series of tutorials.
 
 ### jungle1
 * allowcodecarryover: false
-
-
 * name: Simple Platformer
 * type: tutorial
 * description: Learn how to make a player character that can jump and move around a tilemap.
@@ -29,28 +26,25 @@
 * next: jungle2
 
 ### jungle2
-
-* name: Camera and Tiles
+* name: Game Over
 * type: tutorial
-* description: Learn how to use the camera and add tile overlap events to give the player a way to win and lose.
+* description: Program win and loss conditions for your game.
 * url: /skillmap/jungle/jungle2
 * imageUrl: /static/skillmap/jungle/jungle2.gif
 * tags: easy, tiles
 * next: jungle3
 
 ### jungle3
-
-* name: Simple Enemies
+* name: Leaps and Bounds
 * type: tutorial
-* description: Learn how to add enemies to your game that follow the player.
+* description: Add and remove platforms from the game.
 * url: /skillmap/jungle/jungle3
 * imageUrl: /static/skillmap/jungle/jungle3.gif
 * tags: intermediate, overlaps
 * next: jungle4
 
-### platformer-activity4
-
-* name: Multiple Levels
+### jungle4
+* name: Blown Away
 * type: tutorial
 * description: Add a second level to your platformer using functions.
 * url: /skillmap/jungle/jungle4
@@ -59,10 +53,9 @@
 * next: jungle5
 
 ### jungle5
-
-* name: Enemy AI
+* name: Watch Out!
 * type: tutorial
-* description: Add physics and AI to the enemies in your game.
+* description: Learn how to activate your explosives.
 * url: /skillmap/jungle/jungle5
 * imageUrl: /static/skillmap/jungle/jungle5.gif
 * tags: intermediate, AI, physics
@@ -70,10 +63,9 @@
 
 
 ### jungle6
-
-* name: Enemy AI
+* name: Animations
 * type: tutorial
-* description: Add physics and AI to the enemies in your game.
+* description: Animate your monkey.
 * url: /skillmap/jungle/jungle6
 * imageUrl: /static/skillmap/jungle/jungle6.gif
 * tags: intermediate, AI, physics
@@ -81,8 +73,7 @@
 
 
 ### jungle7
-
-* name: Enemy AI
+* name: Extra Levels
 * type: tutorial
 * description: Add physics and AI to the enemies in your game.
 * url: /skillmap/jungle/jungle7
@@ -92,8 +83,7 @@
 
 
 ### jungle8
-
-* name: Enemy AI
+* name: Make it Your Own
 * type: tutorial
 * description: Add physics and AI to the enemies in your game.
 * url: /skillmap/jungle/jungle8
