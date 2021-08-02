@@ -24,6 +24,7 @@
 * imageUrl: /static/skillmap/jungle/jungle1.gif
 * tags: easy
 * next: jungle2
+* position: 0 2
 
 ### jungle2
 * name: Game Over
@@ -33,6 +34,7 @@
 * imageUrl: /static/skillmap/jungle/jungle2.gif
 * tags: easy, tiles
 * next: jungle3
+* position: 1 2
 
 ### jungle3
 * name: Leaps and Bounds
@@ -42,6 +44,7 @@
 * imageUrl: /static/skillmap/jungle/jungle3.gif
 * tags: intermediate, overlaps
 * next: jungle4
+* position: 1 3
 
 ### jungle4
 * name: Blown Away
@@ -51,6 +54,7 @@
 * imageUrl: /static/skillmap/jungle/jungle4.gif
 * tags: intermediate, functions
 * next: jungle5
+* position: 2 3
 
 ### jungle5
 * name: Watch Out!
@@ -60,6 +64,7 @@
 * imageUrl: /static/skillmap/jungle/jungle5.gif
 * tags: intermediate, AI, physics
 * next: jungle6
+* position: 2 2
 
 
 ### jungle6
@@ -70,6 +75,7 @@
 * imageUrl: /static/skillmap/jungle/jungle6.gif
 * tags: intermediate, AI, physics
 * next: jungle7
+* position: 2 1
 
 
 ### jungle7
@@ -79,7 +85,8 @@
 * url: /skillmap/jungle/jungle7
 * imageUrl: /static/skillmap/jungle/jungle7.gif
 * tags: intermediate, AI, physics
-* next: jungle8
+* next: jungle8, platformer-cert-1
+* position: 3 1
 
 
 ### jungle8
@@ -89,7 +96,8 @@
 * url: /skillmap/jungle/jungle8
 * imageUrl: /static/skillmap/jungle/jungle8.gif
 * tags: intermediate, AI, physics
-* next: platformer-cert-1
+* position: 4 0
+
 
 ### platformer-cert-1
 * name: Congrats!
@@ -97,6 +105,7 @@
 * type: certificate
 * imageUrl: /static/skillmap/certificates/platformer-cert.png
 * url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
+* position: 4 1
 
 
 
