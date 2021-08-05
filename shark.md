@@ -97,7 +97,7 @@
 * url: /skillmap/shark/shark4a
 * tags: easy, animations
 * imageUrl: /static/skillmap/shark/shark4a.gif
-* position: 3 1
+* position: 3 2
 
 ### shark4b
 
