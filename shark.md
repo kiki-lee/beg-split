@@ -86,7 +86,7 @@
 * url: /skillmap/shark/shark4
 * tags: easy, background, decorations
 * imageUrl: /static/skillmap/shark/shark4.gif
-* next: shark-finish, shark4a
+* next: shark-finish, shark4a, shark4b
 * position: 3 0
 
 ### shark4a
