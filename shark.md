@@ -107,7 +107,7 @@
 * url: /skillmap/shark/shark4b
 * tags: easy, background, decorations, asset editor
 * imageUrl: /static/skillmap/shark/shark4b.gif
-* position: 4 3
+* position: 4 2
 
 
 ### shark-finish
