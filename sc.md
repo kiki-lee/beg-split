@@ -85,7 +85,7 @@
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
 * next: sc6
-* position: 4 4
+* position: 3 4
 
 ### sc6
 * name: Animated Characters
