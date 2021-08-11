@@ -86,6 +86,7 @@
 * tags: easy, animations
 * next: sc6
 * position: 3 4
+* edges: 4 4
 
 ### sc6
 * name: Animated Characters
