@@ -14,7 +14,8 @@
         "space.md",
         "zoo.md",
         "shark.md",
-        "jungle.md"
+        "jungle.md",
+        "sc.md"
     ],
     "testFiles": [
         "test.ts"
