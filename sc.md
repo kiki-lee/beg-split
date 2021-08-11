@@ -5,9 +5,9 @@
 * bannerUrl: /static/skillmap/sc/sc6.gif
 * backgroundurl: /static/skillmap/backgrounds/sc-comp.png
 * primarycolor: #ffffff
-* secondarycolor: #000000
-* tertiarycolor: #83C252
-* highlightcolor: #FAED28
+* secondarycolor: #b32027
+* tertiarycolor: #000000
+* highlightcolor: #fcd34b
 
 * completednodecolor: #504c52
 
