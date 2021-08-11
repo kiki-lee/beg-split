@@ -24,7 +24,7 @@
 * imageUrl: /static/skillmap/sc/sc1.gif
 * tags: easy
 * next: sc2
-* position: 0 1
+* position: 0 2
 
 ### sc2
 * name: Know Your Surroundings
@@ -34,7 +34,7 @@
 * imageUrl: /static/skillmap/sc/sc2.gif
 * tags: easy, tiles, tilemaps
 * next: sc3
-* position: 0 2
+* position: 0 3
 
 ### sc3
 * name: Martial Arts Training
@@ -44,7 +44,7 @@
 * imageUrl: /static/skillmap/sc/sc3.gif
 * tags: easy, events
 * next: sc4
-* position: 1 2
+* position: 1 3
 
 ### sc4
 * name: Power Kick
@@ -54,7 +54,7 @@
 * imageUrl: /static/skillmap/sc/sc4.gif
 * tags: easy, events, overlap
 * next: sc5
-* position: 1 3
+* position: 2 3
 
 ### sc5
 * name: Here Comes Trouble
@@ -64,7 +64,7 @@
 * imageUrl: /static/skillmap/sc/sc5.gif
 * tags: easy, events, overlap, lives
 * next: sc5a, sc6
-* position: 1 4
+* position: 3 3
 
 
 ### sc5a
@@ -75,7 +75,7 @@
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
 * next: sc5b
-* position: 2 4
+* position: 3 4
 
 ### sc5b
 * name: Smarter Goons
@@ -85,7 +85,7 @@
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
 * next: sc6
-* position: 2 5
+* position: 4 4
 
 ### sc6
 * name: Animated Characters
@@ -95,7 +95,7 @@
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
 * next: sc7
-* position: 3 4
+* position: 4 3
 
 
 ### sc7
@@ -106,7 +106,7 @@
 * imageUrl: /static/skillmap/sc/sc7.gif
 * tags: easy, levels, tilemaps
 * next: sc8, platformer-cert-1
-* position: 3 3
+* position: 5 3
 
 
 ### sc8
@@ -116,7 +116,7 @@
 * url: /skillmap/sc/sc8
 * imageUrl: /static/skillmap/sc/sc8.gif
 * tags: intermediate, art, assets
-* position: 4 3
+* position: 5 2
 
 
 ### platformer-cert-1
@@ -125,7 +125,7 @@
 * type: certificate
 * imageUrl: /static/skillmap/certificates/platformer-cert.png
 * url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
-* position: 5 3
+* position: 6 2
 
 
 
