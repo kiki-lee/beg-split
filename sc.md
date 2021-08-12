@@ -108,7 +108,7 @@
 * tags: easy, levels, tilemaps
 * next: sc-cert-1, sc8
 * position: 5 3
-* edges: 6 2
+* edges: 6 3, 6 2
 
 
 ### sc8
