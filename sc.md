@@ -106,7 +106,7 @@
 * url: /skillmap/sc/sc7
 * imageUrl: /static/skillmap/sc/sc7.gif
 * tags: easy, levels, tilemaps
-* next: sc8, platformer-cert-1
+* next: sc-cert-1, sc8
 * position: 5 3
 
 
@@ -120,13 +120,13 @@
 * position: 5 2
 
 
-### platformer-cert-1
+### sc-cert-1
 * name: Congrats!
 * kind: completion
 * type: certificate
 * imageUrl: /static/skillmap/certificates/platformer-cert.png
 * url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
-* position: 6 2
+* position: 6 1
 
 
 
