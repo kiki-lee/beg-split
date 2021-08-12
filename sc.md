@@ -44,7 +44,7 @@
 * imageUrl: /static/skillmap/sc/sc3.gif
 * tags: easy, events
 * next: sc4
-* position: 0 3
+* position: 1 2
 
 ### sc4
 * name: Power Kick
@@ -106,7 +106,7 @@
 * url: /skillmap/sc/sc7
 * imageUrl: /static/skillmap/sc/sc7.gif
 * tags: easy, levels, tilemaps
-* next: sc-cert-1, sc8
+* next: sc8, sc-cert-1
 * position: 5 3
 * edges: 6 3, 6 2
 
@@ -118,7 +118,7 @@
 * url: /skillmap/sc/sc8
 * imageUrl: /static/skillmap/sc/sc8.gif
 * tags: intermediate, art, assets
-* position: 5 2
+* position: 6 1
 
 
 ### sc-cert-1
@@ -127,7 +127,7 @@
 * type: certificate
 * imageUrl: /static/skillmap/certificates/platformer-cert.png
 * url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
-* position: 6 1
+* position: 5 2
 
 
 
