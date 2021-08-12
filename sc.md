@@ -128,6 +128,7 @@
 * url: /static/skillmap/certificates/learn-to-make-a-platformer.pdf
 * next: sc8
 * position: 5 2
+* edges: 6 2
 
 
 
