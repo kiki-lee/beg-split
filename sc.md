@@ -1,6 +1,6 @@
 # Shang-Chi and the Legend of the Ten Rings
 * name: Shang-Chi and the Legend of the Ten Rings
-* description: Create an amazing sidescroller based on the movie Shang-Chi and the Legend of the Ten Rings! Using code, you'll train Shang-Chi or Xialing to build magic platforms, seek out mystical rings, and battle the Mandarin's goons.
+* description: Create your own amazing adventure based on the movie Shang-Chi and the Legend of the Ten Rings! Guided by an intro-level tutorial, you'll use code to train Shang-Chi or Xialing to build magic platforms, seek out mystical rings, and battle the Mandarin's goons.
 * infoUrl: skillmap/educator-info/int-map-info
 * bannerUrl: /static/skillmap/sc/sc6.gif
 * backgroundurl: /static/skillmap/backgrounds/sc-comp.png
@@ -19,7 +19,7 @@
 * allowcodecarryover: false
 * name: Opening Scene
 * type: tutorial
-* description: Run and jump
+* description: Add your player to the screen and make it move with arrow keys. Also add jump.
 * url: /skillmap/sc/sc1
 * imageUrl: /static/skillmap/sc/sc1.gif
 * tags: easy
@@ -29,7 +29,7 @@
 ### sc2
 * name: Know Your Surroundings
 * type: tutorial
-* description: Add rings and barriers
+* description: Add dangerous tiles, an end goal, and the rings to the scene
 * url: /skillmap/sc/sc2
 * imageUrl: /static/skillmap/sc/sc2.gif
 * tags: easy, tiles, tilemaps
@@ -39,7 +39,7 @@
 ### sc3
 * name: Martial Arts Training
 * type: tutorial
-* description: Add the code to spawn platforms with the touch of a button!
+* description: Give your player the ability to add blocks to the scene so you can get past obstacles
 * url: /skillmap/sc/sc3
 * imageUrl: /static/skillmap/sc/sc3.gif
 * tags: easy, events
@@ -49,7 +49,7 @@
 ### sc4
 * name: Power Kick
 * type: tutorial
-* description: Use martial arts to clear platforms!
+* description: Give your character the ability to destroy walls with an animated power kick
 * url: /skillmap/sc/sc4
 * imageUrl: /static/skillmap/sc/sc4.gif
 * tags: easy, events, overlap
@@ -57,46 +57,48 @@
 * position: 1 3
 
 ### sc5
+* name: Animated Characters
+* type: tutorial
+* description: Now that we've learned to animate, let's animate the rest of the main character's actions
+* url: /skillmap/sc/sc6
+* imageUrl: /static/skillmap/sc/sc6.gif
+* tags: easy, animations
+* next: sc6
+* position: 2 3
+
+### sc6
 * name: Here Comes Trouble
 * type: tutorial
 * description: Add goons from the Ten Rings organization
 * url: /skillmap/sc/sc5
 * imageUrl: /static/skillmap/sc/sc5.gif
 * tags: easy, events, overlap, lives
-* next: sc5a, sc6
+* next: sc6a, sc7
 * position: 2 3
 
 
-### sc5a
+### sc6a
 * name: Packs a Punch
 * type: tutorial
 * description: Defend yourself against the enemy.
 * url: /skillmap/sc/sc6
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
-* next: sc5b
+* next: sc6b
 * position: 2 4
 
-### sc5b
+### sc6b
 * name: Smarter Goons
 * type: tutorial
 * description: Use simple AI to keep the enemy on the move.
 * url: /skillmap/sc/sc6
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
-* next: sc6
+* next: sc7
 * position: 3 4
 * edges: 4 4
 
-### sc6
-* name: Animated Characters
-* type: tutorial
-* description: Bring your code to life with animation.
-* url: /skillmap/sc/sc6
-* imageUrl: /static/skillmap/sc/sc6.gif
-* tags: easy, animations
-* next: sc7
-* position: 4 3
+
 
 
 ### sc7
