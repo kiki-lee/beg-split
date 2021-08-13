@@ -74,7 +74,7 @@
 * imageUrl: /static/skillmap/sc/sc5.gif
 * tags: easy, events, overlap, lives
 * next: sc6a, sc7
-* position: 2 3
+* position: 3 3
 
 
 ### sc6a
@@ -85,7 +85,7 @@
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
 * next: sc6b
-* position: 2 4
+* position: 3 4
 
 ### sc6b
 * name: Smarter Goons
@@ -95,8 +95,7 @@
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
 * next: sc7
-* position: 3 4
-* edges: 4 4
+* position: 4 4
 
 
 
@@ -109,7 +108,7 @@
 * imageUrl: /static/skillmap/sc/sc7.gif
 * tags: easy, levels, tilemaps
 * next: sc-cert-1
-* position: 5 3
+* position: 4 3
 
 
 ### sc8
