@@ -63,7 +63,7 @@
 * url: /skillmap/sc/sc6
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, animations
-* next: sc6
+* next: sc6, sc7
 * position: 2 3
 
 ### sc6
@@ -73,8 +73,8 @@
 * url: /skillmap/sc/sc5
 * imageUrl: /static/skillmap/sc/sc5.gif
 * tags: easy, events, overlap, lives
-* next: sc6a, sc7
-* position: 3 3
+* next: sc6a
+* position: 2 4
 
 
 ### sc6a
