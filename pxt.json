@@ -15,7 +15,8 @@
         "zoo.md",
         "shark.md",
         "jungle.md",
-        "sc.md"
+        "sc.md",
+        "space-educator-info.md"
     ],
     "testFiles": [
         "test.ts"
