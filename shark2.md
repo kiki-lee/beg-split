@@ -78,6 +78,7 @@
 * imageUrl: /static/skillmap/shark/shark3.gif
 * next: shark4, shark1a
 * position: 2 0
+* reqired: 1 spawn
 
 
 ### shark4, shark1a
@@ -90,6 +91,7 @@
 * imageUrl: /static/skillmap/shark/shark4.gif
 * next: shark-finish, shark4a, shark4b
 * position: 3 0
+* reqired: 1 overlaps
 
 ### shark4a
 
