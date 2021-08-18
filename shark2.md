@@ -81,7 +81,7 @@
 * reqired: 1 spawn
 
 
-### shark4, shark1a
+### shark4
 
 * name: Under the Sea
 * type: tutorial
@@ -89,7 +89,7 @@
 * url: /skillmap/shark/shark4
 * tags: easy, background, decorations
 * imageUrl: /static/skillmap/shark/shark4.gif
-* next: shark-finish, shark4a, shark4b
+* next: shark-finish, shark1a, shark4a, shark4b
 * position: 3 0
 * reqired: 1 overlaps
 
