@@ -60,18 +60,18 @@
 * name: Animated Characters
 * type: tutorial
 * description: Now that we've learned to animate, let's animate the rest of the main character's actions
-* url: /skillmap/sc/sc6
-* imageUrl: /static/skillmap/sc/sc6.gif
+* url: /skillmap/sc/sc5
+* imageUrl: /static/skillmap/sc/sc5.gif
 * tags: easy, animations
-* next: sc6, sc7
+* next: sc6
 * position: 2 3
 
 ### sc6
 * name: Here Comes Trouble
 * type: tutorial
 * description: Add goons from the Ten Rings organization
-* url: /skillmap/sc/sc5
-* imageUrl: /static/skillmap/sc/sc5.gif
+* url: /skillmap/sc/sc6
+* imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, events, overlap, lives
 * next: sc6a
 * position: 2 4
@@ -81,8 +81,8 @@
 * name: Packs a Punch
 * type: tutorial
 * description: Defend yourself against the enemy.
-* url: /skillmap/sc/sc6
-* imageUrl: /static/skillmap/sc/sc6.gif
+* url: /skillmap/sc/sc6a
+* imageUrl: /static/skillmap/sc/sc6a.gif
 * tags: easy, animations
 * next: sc6b
 * position: 3 4
@@ -91,8 +91,8 @@
 * name: Smarter Goons
 * type: tutorial
 * description: Use simple AI to keep the enemy on the move.
-* url: /skillmap/sc/sc6
-* imageUrl: /static/skillmap/sc/sc6.gif
+* url: /skillmap/sc/sc6b
+* imageUrl: /static/skillmap/sc/sc6b.gif
 * tags: easy, animations
 * next: sc7
 * position: 4 4
