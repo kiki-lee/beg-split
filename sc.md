@@ -29,7 +29,7 @@
 ### sc2
 * name: Know Your Surroundings
 * type: tutorial
-* description: Add dangerous tiles, an end goal, and the rings to the scene
+* description: Add dangerous tiles, an end goal, and the rings to the scene.
 * url: /skillmap/sc/sc2
 * imageUrl: /static/skillmap/sc/sc2.gif
 * tags: easy, tiles, tilemaps
@@ -39,7 +39,7 @@
 ### sc3
 * name: Martial Arts Training
 * type: tutorial
-* description: Give your player the ability to add blocks to the scene so you can get past obstacles
+* description: Give your player the ability to add blocks to the scene so you can get past obstacles.
 * url: /skillmap/sc/sc3
 * imageUrl: /static/skillmap/sc/sc3.gif
 * tags: easy, events
@@ -49,7 +49,7 @@
 ### sc4
 * name: Power Kick
 * type: tutorial
-* description: Give your character the ability to destroy walls with an animated power kick
+* description: Give your character the ability to destroy walls with an animated power kick.
 * url: /skillmap/sc/sc4
 * imageUrl: /static/skillmap/sc/sc4.gif
 * tags: easy, events, overlap
@@ -59,7 +59,7 @@
 ### sc5
 * name: Animated Characters
 * type: tutorial
-* description: Now that we've learned to animate, let's animate the rest of the main character's actions
+* description: Now that we've learned to animate, let's animate the rest of the main character's actions.
 * url: /skillmap/sc/sc5
 * imageUrl: /static/skillmap/sc/sc5.gif
 * tags: easy, animations
@@ -69,7 +69,7 @@
 ### sc6
 * name: Here Comes Trouble
 * type: tutorial
-* description: Add goons from the Ten Rings organization
+* description: Add goons from the Ten Rings organization.
 * url: /skillmap/sc/sc6
 * imageUrl: /static/skillmap/sc/sc6.gif
 * tags: easy, events, overlap, lives
