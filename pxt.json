@@ -17,7 +17,8 @@
         "jungle.md",
         "sc.md",
         "space-educator-info.md",
-        "shark2.md"
+        "shark2.md",
+        "rockstar.md"
     ],
     "testFiles": [
         "test.ts"
