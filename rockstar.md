@@ -49,3 +49,6 @@
 * type: certificate
 * url: /static/skillmap/certificates/rockstar-game.pdf
 * position: 3 1
+* actions:
+    * map: [Try Jungle Monkey](docs:/skillmap/jungle)
+    * editor: [Open in Full Editor]

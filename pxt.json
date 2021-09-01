@@ -1,6 +1,6 @@
 {
-    "name": "beg-split",
-    "version": "0.0.85",
+    "name": "beg-split - Copy",
+    "version": "0.0.86",
     "description": "",
     "dependencies": {
         "device": "*"
