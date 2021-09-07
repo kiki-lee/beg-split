@@ -52,4 +52,4 @@
 * actions:
     * map: [Try Jungle Monkey Jump](/skillmap/jungle)
     * map: [Try our Space Explorer](/skillmap/space)
-    * editor: [Edit Your Project in the Full Gallery]
+    * editor: [Edit Your Project with a Full Toolbox]
