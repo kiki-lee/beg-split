@@ -16,7 +16,7 @@
 ### rockstar1
 * name: Trapped Backstage
 * type: tutorial
-* description: Create a rockstar backstage after the show, then create a door for them to escape through!
+* description: Create a rockstar backstage after the show, then keep an eye on them as they navigate the path!
 * url: /skillmap/rockstar/rockstar1
 * tags: easy, sprites, tiles
 * imageUrl: /static/skillmap/rockstar/rockstar1.gif
@@ -50,5 +50,6 @@
 * url: /static/skillmap/certificates/rockstar-game.pdf
 * position: 3 1
 * actions:
-* map: [Try Jungle Monkey Jump](docs:/skillmap/jungle)
-* editor: [Open in Full Editor]
+    * map: [Try Jungle Monkey Jump](https://arcade.makecode.com/--skillmap#jungle)
+    * map: [Try our Space Explorer](https://arcade.makecode.com/--skillmap#space)
+    * editor: [Edit Your Project in the Full Gallery]
