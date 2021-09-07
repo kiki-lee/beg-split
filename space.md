@@ -67,7 +67,7 @@
 * url: /skillmap/space/space4
 * imageUrl: /static/skillmap/space/spacet4.gif
 * position: 3 0
-* edges: 3 2, 4 3
+* edges: 3 2, 4 2
 
 
 ### space-activity5
