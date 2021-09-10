@@ -18,7 +18,8 @@
         "sc.md",
         "space-educator-info.md",
         "shark2.md",
-        "rockstar.md"
+        "rockstar.md",
+        "forestBase.md"
     ],
     "testFiles": [
         "test.ts"
