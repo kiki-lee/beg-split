@@ -23,6 +23,7 @@
 * url: /skillmap/forest/forest1
 * imageUrl: /static/skillmap/forest/forest1.gif
 * tags: easy
+* next: forest2
 
 ### forest2
 * name: Burning Issues
@@ -31,6 +32,7 @@
 * url: /skillmap/forest/forest2
 * imageUrl: /static/skillmap/forest/forest2.gif
 * tags: easy
+* next: forest3
 
 ### forest3
 * name: Fire Fighting
@@ -39,6 +41,7 @@
 * url: /skillmap/forest/forest3
 * imageUrl: /static/skillmap/forest/forest3.gif
 * tags: easy
+* next: forest4
 
 ### forest4
 * name: Spreads Like Wildfire
@@ -48,6 +51,7 @@ to change fire danger levels.
 * url: /skillmap/forest/forest4
 * imageUrl: /static/skillmap/forest/forest4.gif
 * tags: easy
+* next: forest5
 
 ### forest5
 * name: Head's Up
@@ -56,3 +60,14 @@ to change fire danger levels.
 * url: /skillmap/forest/forest5
 * imageUrl: /static/skillmap/forest/forest5.gif
 * tags: easy
+* next: forest-cert 
+
+
+
+### forest-cert
+* name: Congrats!
+* kind: completion
+* type: certificate
+* imageUrl: /static/skillmap/certificates/forest-cert.png
+* url: /static/skillmap/certificates/forest-cert-comp.pdf
+* position: 5 2
