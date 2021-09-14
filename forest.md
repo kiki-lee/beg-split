@@ -6,7 +6,7 @@
 * backgroundurl: /static/skillmap/backgrounds/forest-comp.png
 * primarycolor: #ffffff
 * secondarycolor: #b32027
-* tertiarycolor: #000000
+* tertiarycolor: ##249fa5
 * highlightcolor: #fcd34b
 * completednodecolor: #352125
 
@@ -65,7 +65,7 @@ to change fire danger levels.
 * imageUrl: /static/skillmap/forest/forest5.gif
 * tags: easy
 * next: forest-cert 
-* position: 2 2
+* position: 3 1
 
 
 
@@ -75,4 +75,4 @@ to change fire danger levels.
 * type: certificate
 * imageUrl: /static/skillmap/certificates/forest-cert.png
 * url: /static/skillmap/certificates/forest-cert-comp.pdf
-* position: 2 3
+* position: 4 1
