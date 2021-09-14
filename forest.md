@@ -6,7 +6,7 @@
 * backgroundurl: /static/skillmap/backgrounds/forest-comp.png
 * primarycolor: #ffffff
 * secondarycolor: #b32027
-* tertiarycolor: ##249fa5
+* tertiarycolor: #249fa5
 * highlightcolor: #fcd34b
 * completednodecolor: #352125
 
