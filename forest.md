@@ -44,7 +44,7 @@
 * imageUrl: /static/skillmap/forest/forest3.gif
 * tags: easy
 * next: forest4
-* position: 2 0
+* position: 1 1
 
 ### forest4
 * name: Spreads Like Wildfire
@@ -65,7 +65,7 @@ to change fire danger levels.
 * imageUrl: /static/skillmap/forest/forest5.gif
 * tags: easy
 * next: forest-cert 
-* position: 3 1
+* position: 2 2
 
 
 
@@ -75,4 +75,4 @@ to change fire danger levels.
 * type: certificate
 * imageUrl: /static/skillmap/certificates/forest-cert.png
 * url: /static/skillmap/certificates/forest-cert-comp.pdf
-* position: 4 1
+* position: 3 2
