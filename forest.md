@@ -86,4 +86,4 @@ to change fire danger levels.
 * url: /skillmap/forest/forest6
 * imageUrl: /static/skillmap/forest/forest6.gif
 * tags: custom, animation, sounds
-* position: 3 3
+* position: 4 2
