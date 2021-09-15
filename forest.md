@@ -64,7 +64,7 @@ to change fire danger levels.
 * url: /skillmap/forest/forest5
 * imageUrl: /static/skillmap/forest/forest5.gif
 * tags: easy
-* next: forest-cert 
+* next: forest-cert
 * position: 2 2
 
 
@@ -74,5 +74,16 @@ to change fire danger levels.
 * kind: completion
 * type: certificate
 * imageUrl: /static/skillmap/certificates/forest-cert.png
-* url: /static/skillmap/certificates/forest-cert-comp.pdf
+* url: /static/skillmap/certificates/forest-cert.pdf
+* next: forest6 
 * position: 3 2
+
+
+### forest6
+* name: Keep Going!
+* type: tutorial
+* description: Add sounds and animations to customize your game.
+* url: /skillmap/forest/forest6
+* imageUrl: /static/skillmap/forest/forest6.gif
+* tags: custom, animation, sounds
+* position: 3 3
