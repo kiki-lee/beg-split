@@ -32,7 +32,7 @@
 * tags: easy, tiles, events
 * imageUrl: /static/skillmap/rockstar/rockstar2.gif
 * next: rockstar3
-* position: 1 1
+* position: 1 0
 
 ### rockstar3
 * name: Avoid the Fans!
@@ -42,7 +42,7 @@
 * tags: easy, enemies, overlap, lives
 * imageUrl: /static/skillmap/rockstar/rockstar3.gif
 * next: rockstar-finish
-* position: 2 2
+* position: 2 1
 
 
 ### rockstar-finish
