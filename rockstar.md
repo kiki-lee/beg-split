@@ -8,6 +8,7 @@
 * tertiarycolor: #161112
 * strokecolor: #ffffff
 * highlightcolor: #fff609
+* completednodecolor: #3b3738
 
 ## rockstar
 * name: 80's Rockstar Maze
