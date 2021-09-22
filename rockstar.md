@@ -32,7 +32,7 @@
 * tags: easy, tiles, events
 * imageUrl: /static/skillmap/rockstar/rockstar2.gif
 * next: rockstar3
-* position: 1 0
+* position: 1 -1
 
 ### rockstar3
 * name: Avoid the Fans!
@@ -42,14 +42,14 @@
 * tags: easy, enemies, overlap, lives
 * imageUrl: /static/skillmap/rockstar/rockstar3.gif
 * next: rockstar-finish
-* position: 2 1
+* position: 2 0
 
 
 ### rockstar-finish
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/rockstar-cert.pdf
-* position: 3 1
+* position: 3 0
 * actions:
     * map: [Try Jungle Monkey Jump](/skillmap/jungle)
     * map: [Try our Space Explorer](/skillmap/space)
