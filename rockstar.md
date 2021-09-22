@@ -5,8 +5,8 @@
 * bannerurl: /static/skillmap/rockstar/rockstar3.gif
 * primarycolor: #ff93c4
 * secondarycolor: #87f2ff
-* tertiarycolor: #5c406c
-* strokecolor: #5c406c
+* tertiarycolor: #161112
+* strokecolor: #ffffff
 * highlightcolor: #fff609
 
 ## rockstar
