@@ -1,7 +1,7 @@
 # 80's Rockstar Maze!
 * name: 80's Rockstar Maze!
 * description: Create a fast-paced maze game by programming a rockstar to move through the crowded backstage area to collect all of their gear before they're mobbed by fans!
-* backgroundurl: /static/skillmap/backgrounds/rockstar-comp.png
+* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/rockstar-comp.png?raw=true
 * bannerurl: /static/skillmap/rockstar/rockstar3.gif
 * primarycolor: #ff93c4
 * secondarycolor: #87f2ff
@@ -34,7 +34,7 @@
 * position: 1 1
 
 ### rockstar3
-* name: Enemies Attack!
+* name: Avoid the Fans!
 * type: tutorial
 * description: Code some crazed fans who will steal points as souveniers unless the rockstar can avoid them!
 * url: /skillmap/rockstar/rockstar3
@@ -47,9 +47,10 @@
 ### rockstar-finish
 * kind: completion
 * type: certificate
-* url: /static/skillmap/certificates/rockstar-game.pdf
+* url: /static/skillmap/certificates/rockstar-cert.pdf
 * position: 3 1
 * actions:
     * map: [Try Jungle Monkey Jump](/skillmap/jungle)
     * map: [Try our Space Explorer](/skillmap/space)
     * editor: [Edit Your Project with a Full Toolbox](/)
+
