@@ -22,7 +22,7 @@
 * tags: easy, sprites, tiles
 * imageUrl: /static/skillmap/rockstar/rockstar1.gif
 * next: rockstar2
-* position: 0 0
+* position: 0 -1
 
 ### rockstar2
 * name: Gather Your Gear
