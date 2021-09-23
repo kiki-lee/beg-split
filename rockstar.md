@@ -4,10 +4,10 @@
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/rockstar-comp.png?raw=true
 * bannerurl: /static/skillmap/rockstar/rockstar3.gif
 * primarycolor: #ff93c4
-* secondarycolor: #003fad
+* secondarycolor: #fdf60c
 * tertiarycolor: #161112
 * strokecolor: #ffffff
-* highlightcolor: #fff609
+* highlightcolor: #ffffff
 * completednodecolor: #3b3738
 
 ## rockstar
