@@ -3,8 +3,8 @@
 * description: Create a fast-paced maze game by programming a rockstar to move through the crowded backstage area to collect all of their gear before they're mobbed by fans!
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/rockstar-comp.png?raw=true
 * bannerurl: /static/skillmap/rockstar/rockstar3.gif
-* primarycolor: #003fad
-* secondarycolor: #87f2ff
+* primarycolor: #ff93c4
+* secondarycolor: #003fad
 * tertiarycolor: #161112
 * strokecolor: #ffffff
 * highlightcolor: #fff609
