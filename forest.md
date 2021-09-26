@@ -12,7 +12,7 @@
 
 
 ## Save the Forest
-* name: Save the forest from the ravaging fire!
+* name: Save the Forest
 * layout: manual
 
 ### forest1
