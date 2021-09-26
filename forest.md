@@ -80,7 +80,7 @@ to change fire danger levels.
 * actions:
     * map: [Try the Time Flies Tutorial](/tutorials/froggy)
     * map: [Try the Space Explorer Map](/skillmap/space)
-    * editor: [Edit Your Project with a Full Toolbox]
+    * editor: [Edit Your Project with a Full Toolbox] (/)
 
 
 ### forest6
