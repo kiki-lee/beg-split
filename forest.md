@@ -77,6 +77,10 @@ to change fire danger levels.
 * url: /static/skillmap/certificates/forest-cert.pdf
 * next: forest6 
 * position: 3 2
+* actions:
+    * map: [Try the Time Flies Tutorial](/tutorials/froggy)
+    * map: [Try the Space Explorer Map](/skillmap/space)
+    * editor: [Edit Your Project with a Full Toolbox](/)
 
 
 ### forest6
@@ -87,7 +91,3 @@ to change fire danger levels.
 * imageUrl: /static/skillmap/forest/forest6.gif
 * tags: custom, animation, sounds
 * position: 4 2
-* actions:
-    * map: [Try the Time Flies Tutorial](/tutorials/froggy)
-    * map: [Try the Space Explorer Map](/skillmap/space)
-    * editor: [Edit Your Project with a Full Toolbox](/)
