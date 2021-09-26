@@ -1,6 +1,6 @@
 # 80's Rockstar Maze!
 * name: 80's Rockstar Maze!
-* description: Create a fast-paced maze game by programming a rockstar to move through the crowded backstage area to collect all of their gear before they're mobbed by fans!
+* description: Create a fast-paced maze game by programming a rockstar to move through the crowded backstage area and collect all of their gear before they're mobbed by fans!
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/rockstar-comp.png?raw=true
 * bannerurl: /static/skillmap/rockstar/rockstar3.gif
 * primarycolor: #ff93c4
