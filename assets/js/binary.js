@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.56/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.121","target":"arcade","targetVersion":"1.5.56","repo":"kiki-lee/beg-split"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.5.56/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.122","target":"arcade","targetVersion":"1.5.56","repo":"kiki-lee/beg-split"}
 // total=1150270 new=5.58% cached=88.90% other=5.52%
 (function (ectx) {
 'use strict';
@@ -385,7 +385,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P31859(s) {
+function _main___P31901(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -750,13 +750,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P31859.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
-_main___P31859.continuations = [  ]
+_main___P31901.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"main.ts","functionName":"<main>","argumentNames":[]}
+_main___P31901.continuations = [  ]
 
-function _main___P31859_mk(s) {
+function _main___P31901_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P31859, depth: s.depth + 1,
+        parent: s, fn: _main___P31901, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
   tmp_0: undefined,
   tmp_1: undefined,
@@ -38969,5 +38969,5 @@ const tiles_Location__C17807_VT = mkVTable({
 
 const breakpoints = setupDebugger(1, ["mySprite___21148"])
 
-return _main___P31859
+return _main___P31901
 })
