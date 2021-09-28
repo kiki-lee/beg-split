@@ -1,5 +1,5 @@
 {
-    "name": "beg-split-2",
+    "name": "beg-split-3 - Copy - Copy",
     "version": "0.0.123",
     "description": "",
     "dependencies": {
@@ -21,13 +21,14 @@
         "shark2.md",
         "rockstar.md",
         "forestBase.md",
-        "forest.md"
+        "forest.md",
+        "forest-educator-info.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.5.56",
+        "target": "1.6.6",
         "targetId": "arcade"
     },
     "supportedTargets": [
