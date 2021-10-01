@@ -1,10 +1,11 @@
 {
-    "name": "beg-split-3 - Copy - Copy",
+    "name": "beg-split-3 - Copy - Copy - Copy",
     "version": "0.0.123",
     "description": "",
     "dependencies": {
         "device": "*",
-        "darts": "*"
+        "darts": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1"
     },
     "files": [
         "main.blocks",
@@ -22,13 +23,14 @@
         "rockstar.md",
         "forestBase.md",
         "forest.md",
-        "forest-educator-info.md"
+        "forest-educator-info.md",
+        "forest-special.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.6.6",
+        "target": "1.6.24",
         "targetId": "arcade"
     },
     "supportedTargets": [
