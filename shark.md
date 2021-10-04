@@ -46,7 +46,7 @@
 * tags: easy, enemies, overlaps
 * imageUrl: /static/skillmap/shark/shark3.gif
 * next: shark4
-* position: 2 0
+* position: 1 1
 
 
 ### shark4
@@ -58,7 +58,7 @@
 * tags: easy, background, decorations
 * imageUrl: /static/skillmap/shark/shark4.gif
 * next: shark4a
-* position: 3 0
+* position: 2 1
 
 ### shark4a
 
@@ -69,14 +69,14 @@
 * tags: easy, animations
 * imageUrl: /static/skillmap/shark/shark4a.gif
 * next: shark-finish
-* position: 4 1
+* position: 2 0
 
 
 ### shark-finish
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/collector-game.pdf
-* position: 4 0
+* position: 3 0
 * actions:
     * map: [Try Jungle Monkey Jump](/skillmap/jungle)
     * map: [Try our Space Explorer](/skillmap/space)
