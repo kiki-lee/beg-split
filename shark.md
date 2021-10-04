@@ -1,13 +1,15 @@
 # Shark Splash
 * name: Shark Splash
-* description: The deep sea is a fascinating place! This skillmap will guide you through the ocean as a shark on a journey to find food and avoid enemies.
+* description: The deep sea is a fascinating place! This skillmap will guide you through the ocean as a shark on a journey to find food and avoid enemy submarines.
+* infoUrl: skillmap/educator-info/shark-map-info
 * backgroundurl: /static/skillmap/backgrounds/shark-attack-bg.png
-* bannerurl: /static/skillmap/shark/shark.gif
+* bannerurl: /static/skillmap/shark/shark4a.gif
 * primarycolor: #ff93c4
 * secondarycolor: #87f2ff
 * tertiarycolor: #5c406c
 * strokecolor: #5c406c
 * highlightcolor: #fff609
+* completednodecolor: #473c4d
 
 ## shark
 * name: Shark Splash
@@ -26,7 +28,7 @@
 ### shark1a
 * name: Beware the Enemy
 * type: tutorial
-* description: Crabs might be little,  but they're fierce!  Learn how to spawn enemies for your shark to avoid.
+* description: Spawn enemy submarines that track your shark!
 * url: /skillmap/shark/shark1a
 * tags: easy, design, background
 * imageUrl: /static/skillmap/shark/shark1a.gif
@@ -36,7 +38,7 @@
 ### shark1b
 * name: Enemies Attack!
 * type: tutorial
-* description: Turn your project into a game by adding damage every time a crab catches your shark.
+* description: Turn your project into a game by adding damage every time a submarine catches your shark.
 * url: /skillmap/shark/shark1b
 * tags: easy, enemies, overlap, lives
 * imageUrl: /static/skillmap/shark/shark1b.gif
@@ -115,3 +117,9 @@
 * type: certificate
 * url: /static/skillmap/certificates/collector-game.pdf
 * position: 4 0
+* actions:
+    * map: [Try Jungle Monkey Jump](/skillmap/jungle)
+    * map: [Try our Space Explorer](/skillmap/space)
+    * editor: [Edit Your Project with a Full Toolbox](/)
+
+
