@@ -1,6 +1,6 @@
 # Shark Splash
 * name: Shark Splash
-* description: The deep sea is a fascinating place! This skillmap will guide you through the ocean as a shark on a journey to find food and avoid enemy submarines.
+* description: The deep sea is a fascinating place! This skillmap will guide you through the ocean as a shark on a journey to find food!
 * infoUrl: skillmap/educator-info/shark-map-info
 * backgroundurl: /static/skillmap/backgrounds/shark-attack-bg.png
 * bannerurl: /static/skillmap/shark/shark4a.gif
@@ -22,39 +22,8 @@
 * url: /skillmap/shark/shark1
 * tags: easy, sprites, projectiles
 * imageUrl: /static/skillmap/shark/shark1.gif
-* next: shark2, shark1a
-* position: 0 0
-
-### shark1a
-* name: Beware the Enemy
-* type: tutorial
-* description: Spawn enemy submarines that track your shark!
-* url: /skillmap/shark/shark1a
-* tags: easy, design, background
-* imageUrl: /static/skillmap/shark/shark1a.gif
-* next: shark1b
-* position: 0 2
-
-### shark1b
-* name: Enemies Attack!
-* type: tutorial
-* description: Turn your project into a game by adding damage every time a submarine catches your shark.
-* url: /skillmap/shark/shark1b
-* tags: easy, enemies, overlap, lives
-* imageUrl: /static/skillmap/shark/shark1b.gif
-* next: shark1c
-* position: 1 2
-
-### shark1c
-* name: Laser Focus
-* type: tutorial
-* description: You have enemies. You have lasers. Let's put them together!
-* url: /skillmap/shark/shark1c
-* tags: easy, enemies, points
-* imageUrl: /static/skillmap/shark/shark1c.gif
 * next: shark2
-* position: 2 2
-* edges: 2 1, 1 1
+* position: 0 0
 
 
 
@@ -88,7 +57,7 @@
 * url: /skillmap/shark/shark4
 * tags: easy, background, decorations
 * imageUrl: /static/skillmap/shark/shark4.gif
-* next: shark-finish, shark4a, shark4b
+* next: shark4a
 * position: 3 0
 
 ### shark4a
@@ -99,17 +68,8 @@
 * url: /skillmap/shark/shark4a
 * tags: easy, animations
 * imageUrl: /static/skillmap/shark/shark4a.gif
+* next: shark-finish
 * position: 4 1
-
-### shark4b
-
-* name: A Whole New World
-* type: tutorial
-* description: Give your game a brand new theme and really make it yours!
-* url: /skillmap/shark/shark4b
-* tags: easy, background, decorations, asset editor
-* imageUrl: /static/skillmap/shark/shark4b.gif
-* position: 4 2
 
 
 ### shark-finish
@@ -121,5 +81,4 @@
     * map: [Try Jungle Monkey Jump](/skillmap/jungle)
     * map: [Try our Space Explorer](/skillmap/space)
     * editor: [Edit Your Project with a Full Toolbox](/)
-
 
