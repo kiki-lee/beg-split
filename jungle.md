@@ -3,7 +3,7 @@
 * description: Learn how to create a sidescrolling platformer by following this short series of tutorials.
 * infoUrl: skillmap/educator-info/int-map-info
 * bannerUrl: /static/skillmap/jungle/activity4.png
-* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/jungle-bg.png
+* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/jungle-bg.png?raw=true
 * primarycolor: #2EA9B0
 * secondarycolor: #F392BD
 * tertiarycolor: #83C252
