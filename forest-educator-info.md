@@ -8,14 +8,14 @@ In this short set of activities, students code a game that recreates the conditi
 
 Designed for students between the ages of 11 & 18, this experience contains a total of 6 tutorials (approximating 54 minutes of instruction).  At the end of the learning path, students receive a certificate of completion.
 
-|                 | Minutes* | Game Type | Key Concepts |
-| --------------- | -------- | --------- | ------------ |
-| Prepare Your Plane | 7 | Intro | movement, sprites |
-| Burning Issues | 8 | Maze | events, loops, random |
-| Fire Fighting | 10 | Maze | events, projectiles |
-| Spreads Like Wildfire | 10 | Maze | events, variables, collisions |
-| Head's Up! | 9 | Maze | displays, customization |
-| Keep Going | 10 | Maze | animations, sounds |
+|                 | Minutes* | Key Concepts |
+| --------------- | -------- | ------------ |
+| Prepare Your Plane | 7  | movement, sprites |
+| Burning Issues | 8  | events, loops, random |
+| Fire Fighting | 10 | events, projectiles |
+| Spreads Like Wildfire | 10 | events, variables, collisions |
+| Head's Up! | 9 | displays, customization |
+| Keep Going | 10 | animations, sounds |
 
 \* Minutes are approximate, based on time to follow instructions as written. Times do not include time spent on designing elements or re-aquainting with previously-written code. Providing extra time for creativity and debugging is encouraged.
 
@@ -41,23 +41,20 @@ Specifically, they will experience the following topics:
 
 As students progress through these projects, they will progressively build a game where their plane shoots water at flames to weaken them until they eventually extinguish.
 
-```package
-pxt-forest-special=github:kiki-lee/forest-special/
-```
 
 #### 1. Prepare Your Plane
 | Activity | Prepare Your Plane (7 min) |
 |---|---|
 | ![Prepare Your Plane thumbnail](/static/skillmap/forest/forest1.gif) | Set up your plane to make sure you can get everywhere you need to be!  |
-| Blocks used | ``[let mySprite = sprites.create(img`.`, SpriteKind.Player)]``<br/>``[let mySprite: Sprite=null; controller.moveSprite(mySprite)]``<br/>``[let mySprite: Sprite=null; scene.cameraFollowSprite(mySprite)]`` |
-| Solution option | [Prepare Your Plane Project](https://makecode.com/_0CbLhcf6TW1W) |
+| Blocks used | ``[tiles.setTilemap(tilemap`level1`)]``<br/>``[let mySprite = sprites.create(img`.`, SpriteKind.Player)]``<br/>``[let mySprite: Sprite=null; controller.moveSprite(mySprite)]``<br/>``[let mySprite: Sprite=null; scene.cameraFollowSprite(mySprite)]`` |
+| Solution option | [Prepare Your Plane Project](https://makecode.com/_epJ1pWYYeVyY) |
 
 #### 2. Burning Issues
 | Activity | Burning Issues (8 min) |
 |---|---|
 | ![Burning Issues thumbnail](/static/skillmap/forest/forest2.gif) | Use loops to add random fires to your map!  |
-| Blocks used | ``[for (let index = 0; index < 4; index++) {}]``<br/>``[newFire = sprites.create(img`.`, SpriteKind.Player)]``<br/>``[tiles.placeOnRandomTile(newFire, assets.tile`transparency16`)]``<br/>``[sprites.onCreated()]``<br/>``[let sprite: Sprite=null; sprite.startEffect(effects.fire)]`` |
-| Solution option | [Burning Issues Project](https://makecode.com/_EdjVbU6eMTPW) |
+| Blocks used | ``[for (let index = 0; index < 4; index++) {}]``<br/>``[sprites.create_spreading_fire(img`transparency16`, assets.tile`transparency16`)]``<br/>``[sprites.on_fire_created()]``<br/>``[scene.createParticleEffectAtLocation(location, effects.fire)]`` |
+| Solution option | [Burning Issues Project](https://makecode.com/_Uq6C8RKcg5g4) |
 
 #### 3. Fire Fighting
 | Activity | Fire Fighting (10 min) |
@@ -103,3 +100,8 @@ When students are finished with **Save the Forest!** consider graduating them to
 - [Try the Jungle Monkey Skillmap](/skillmap/jungle)
 - [Try the Space Explorer Map](/skillmap/space)
 - [Try our Time Flies Tutorial](/tutorials/froggy)
+
+
+```package
+pxt-arcade-forest-fire=github:microsoft/arcade-forest-fire
+```
