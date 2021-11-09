@@ -4,9 +4,9 @@
 * infoUrl: skillmap/educator-info/turkey-map-info
 * backgroundurl: /static/skillmap/backgrounds/turkey-comp.png
 * bannerurl: /static/skillmap/turkey/turkey2.gif
-* primarycolor: #ff93c4
-* secondarycolor: #fdf60c
-* tertiarycolor: #161112
+* primarycolor: #86f2ff
+* secondarycolor: #e77038
+* tertiarycolor: #77dc52
 * strokecolor: #ffffff
 * highlightcolor: #ffffff
 * completednodecolor: #3b3738
