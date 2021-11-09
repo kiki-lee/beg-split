@@ -24,7 +24,8 @@
         "forestBase.md",
         "forest.md",
         "forest-educator-info.md",
-        "forest-special.ts"
+        "forest-special.ts",
+        "turkey.md"
     ],
     "testFiles": [
         "test.ts"
