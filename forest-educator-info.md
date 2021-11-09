@@ -60,29 +60,29 @@ As students progress through these projects, they will progressively build a gam
 | Activity | Fire Fighting (10 min) |
 |---|---|
 | ![Fire Fighting! thumbnail](/static/skillmap/forest/forest3.gif) | Add a water hose to your plane so you can keep your fires under control.  |
-| Blocks used | ``[controller.A.onEvent(ControllerButtonEvent.Repeated, function () {})]``<br/>``[let mySprite: Sprite=null; sprites.spray(mySprite, img`.`)]``<br/>``[sprites.set_flame_strength(sprite, 10)]``<br/>``[sprites.onOverlap()]``<br/>``[let sprite: Sprite=null; sprite.destroy()]``<br/>``[sprites.change_flame_strength_by(sprite, -1)]`` |
-| Solution option | [Fire Fighting Project](https://makecode.com/_9p32WzfzX1uv) |
+| Blocks used | ``[controller.A.onEvent(ControllerButtonEvent.Repeated, function () {})]``<br/>``[let mySprite: Sprite=null; sprites.spray(mySprite, img`.`)]``<br/>``[sprites.set_flame_strength(location, 5)]``<br/>``[scene.onOverlapTile(SpriteKind.Water, assets.tile`transparency16`, function (sprite, location))]``<br/>``[let sprite: Sprite=null; sprite.destroy()]``<br/>``[sprites.change_flame_strength_by(sprite, -1)]``<br/>``[sprites.on_fire_destroyed(function (location))]``<br/>``[scene.clearParticleEffectsAtLocation(location)]``<br/>``[tiles.setTileAt(location, assets.tile`transparency16`)]`` |
+| Solution option | [Fire Fighting Project](https://makecode.com/_Vme4T0TkA1E3) |
 
 #### 4. Spreads Like Wildfire
 | Activity | Spreads Like Wildfire (10 min) |
 |---|---|
 | ![Spreads Like Wildfire thumbnail](/static/skillmap/forest/forest4.gif) | Conditions in the weather and environment such as drought, winds, vegetation density and dryness can cause fires to spread more quickly.  Let's simulate these conditions in our game.  |
-| Blocks used | ``[game.set_health_of_trees(7)]``<br/>``[game.set_strength_of_wind(3)]``<br/>``[game.set_dryness_of_grass(3)]``<br/>``[game.onUpdate(function () {})]``<br/>``[sprites.random_spread(img`.`]``<br/>``[sprites.onDestroyed(SpriteKind.Player, function (sprite) {})]``<br/>``[tiles.setTileAt(tiles.locationOfSprite(sprite), assets.tile`transparency16`)]``<br/>``[scene.onOverlapTile()]``<br/>``[sprites.onOverlap()]``<br/>``[let otherSprite: Sprite=null; otherSprite.destroy()]``<br/> |
-| Solution option | [Spreads Like Wildfire Project](https://makecode.com/_ifR6pigEHKP7) |
+| Blocks used | ``[game.set_health_of_trees(7)]``<br/>``[game.set_strength_of_wind(3)]``<br/>``[game.set_dryness_of_grass(3)]``<br/>``[game.onUpdate(function () {})]``<br/>``[sprites.random_spread()]``|
+| Solution option | [Spreads Like Wildfire Project](https://makecode.com/_0MWamcehqV22) |
 
 #### 5. Head's Up!
 | Activity | Head's Up! (9 min) |
 |---|---|
 | ![Head's Up!](/static/skillmap/forest/forest5.gif) | Computer science is more important to firefighting than ever before. Let's add a heads-up-display (HUD) to help the pilot get information from their fire database in real-time.  |
 | Blocks used | ``[hud.forest_hud(true)]``<br/>``[hud.danger_hud(true)]``<br/>``[hud.forest_hud(true)]`` |
-| Solution option | [Head's Up Project](https://makecode.com/_77cLwx4b120o) |
+| Solution option | [Head's Up Project](https://makecode.com/_b6Y46WUtkCeJ) |
 
-#### 4. Keep Going
+#### 6. Keep Going
 | Activity | Keep Going (10 min) |
 |---|---|
 | ![Keep Going thumbnail](/static/skillmap/forest/forest6.gif) | Add more to your game! Experiment with sounds and animation to make your game truly unique.  |
 | Blocks used | ``[controller.left.onEvent(ControllerButtonEvent.Pressed, function () {})]``<br/>``[animation.runImageAnimation()]``<br/>``[music.thump.play()]`` |
-| Solution option | [Keep Going Project](https://makecode.com/_0kzFyAgPMa4A) |
+| Solution option | [Keep Going Project](https://makecode.com/_Y9PK4P2iF6D0) |
 
 ##### Game Mod Ideas
 
