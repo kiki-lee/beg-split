@@ -2,7 +2,7 @@
 * name: Turkey Day!
 * description: It's time to break out! Help your turkey free all of its friends and climb to freedom in this fast-paced vertical platformer.
 * infoUrl: skillmap/educator-info/turkey-map-info
-* backgroundurl: /static/skillmap/backgrounds/turkey-comp.png
+* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/turkey-comp.png?raw=true
 * bannerurl: /static/skillmap/turkey/turkey2.gif
 * primarycolor: #86f2ff
 * secondarycolor: #fdf60c
