@@ -5,7 +5,7 @@
 * backgroundurl: /static/skillmap/backgrounds/turkey-comp.png
 * bannerurl: /static/skillmap/turkey/turkey2.gif
 * primarycolor: #86f2ff
-* secondarycolor: #e77038
+* secondarycolor: #fdf60c
 * tertiarycolor: #77dc52
 * strokecolor: #ffffff
 * highlightcolor: #ffffff
