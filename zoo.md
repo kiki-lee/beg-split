@@ -46,8 +46,8 @@
 * imageurl: /static/skillmap/zoo/zoo2a.gif
 * tags: easy, movement, random
 * next: zoo-activity3
-* position: 1 2
-* edges: 2 2, 2 0
+* position: 1 1
+* edges: 2 1, 2 0
 
 ### zoo-activity3
 * allowcodecarryover: false
