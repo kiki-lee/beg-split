@@ -46,7 +46,7 @@
 * imageurl: /static/skillmap/zoo/zoo2a.gif
 * tags: easy, movement, random
 * next: zoo-activity3
-* position: 2 1
+* position: 1 2
 * edges: 2 2, 2 0
 
 ### zoo-activity3
@@ -58,7 +58,7 @@
 * imageurl: /static/skillmap/zoo/zoo3.gif
 * tags: easy, positioning, debugging
 * next: zoo-activity4
-* position: 1 1
+* position: 2 0
 
 ### zoo-activity4
 * allowcodecarryover: false
@@ -69,7 +69,7 @@
 * imageurl: /static/skillmap/zoo/zoo4.gif
 * tags: easy, overlaps, events
 * next: zoo-activity5
-* position: 2 1
+* position: 3 0
 
 ### zoo-activity5
 * allowcodecarryover: false
@@ -80,7 +80,7 @@
 * imageurl: /static/skillmap/zoo/zoo5.gif
 * tags: intermediate, overlaps, destroy
 * next: zoo-complete
-* position: 3 1
+* position: 4 0
 
 ### zoo-complete
 * allowcodecarryover: false
@@ -89,7 +89,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/zookeeper-license.pdf
 * imageurl: /static/skillmap/zoo/zookeeper-license.png
-* position: 4 1
+* position: 5 0
 * actions:
     * map: [Try Beginner Skillmap](/skillmap/beginner)
     * editor: [Edit Your Project with a Full Toolbox](/)
