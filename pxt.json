@@ -25,13 +25,14 @@
         "forest.md",
         "forest-educator-info.md",
         "forest-special.ts",
-        "turkey.md"
+        "turkey.md",
+        "whatever.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.6.24",
+        "target": "1.7.16",
         "targetId": "arcade"
     },
     "supportedTargets": [
