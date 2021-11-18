@@ -6,7 +6,7 @@
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/star-comp.png?raw=true  
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
-* tertiarycolor: #270a25
+* tertiarycolor: #010214
 * completednodecolor: #738472
 * highlightcolor: #ffffff
 * allowcodecarryover: true
@@ -14,6 +14,7 @@
 
 
 ## Sing 2 - The Big Stage
+* layout: manual
 
 
 ### star-activity1
