@@ -26,7 +26,8 @@
         "forest-educator-info.md",
         "forest-special.ts",
         "turkey.md",
-        "whatever.md"
+        "whatever.md",
+        "star.md"
     ],
     "testFiles": [
         "test.ts"
