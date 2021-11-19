@@ -6,8 +6,8 @@
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/star-comp.png?raw=true  
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
-* tertiarycolor: #010214
-* completednodecolor: #738472
+* tertiarycolor: #02010b
+* completednodecolor: #442532
 * highlightcolor: #ffffff
 * allowcodecarryover: true
 * tags: easy, beginner, tutorials
