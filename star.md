@@ -2,7 +2,7 @@
 * name: Sing 2 - The Big Stage
 * description: Learn to create a clicker game and quickly rack up the points as you applaud your favorite stars from Sing 2.
 * infoUrl: skillmap/educator-info/star-map-info
-* bannerUrl: /static/skillmap/backgrounds/star.png
+* bannerUrl: /static/skillmap/backgrounds/star4.gif
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/star-comp.png?raw=true  
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
@@ -26,7 +26,7 @@
 * tags: easy, clicker, points
 * next: star-activity2
 * url: /skillmap/star/star1 
-* imageUrl: /static/skillmap/star/star-comp.png
+* imageUrl: /static/skillmap/star/star1.gif
 * position: -1 0
 
 
@@ -38,7 +38,7 @@
 * tags: easy, clicker, game, events
 * next: star-activity3
 * url: /skillmap/star/clickert2 
-* imageUrl: /static/skillmap/star/clickert2.gif
+* imageUrl: /static/skillmap/star/star2.gif
 * position: 0 0
 
 
@@ -49,7 +49,7 @@
 * tags: easy, clicker, projectiles
 * next: star-activity4
 * url: /skillmap/star/clickert3 
-* imageUrl: /static/star/star/clickert3.gif
+* imageUrl: /static/star/star/star3.gif
 * position: 0 1
 
 
@@ -58,13 +58,13 @@
 * type: tutorial
 * description: Toss a mix of stars and roses at the stage as you learn about arrays!
 * tags: easy, clicker, projectiles, arrays
-* next: star-activity5
+* next: star-cert
 * url: /skillmap/star/clickert4 
-* imageUrl: /static/skillmap/star/clickert4.gif
+* imageUrl: /static/skillmap/star/star4.gif
 * position: 1 1
 
 
-### star-cert-2
+### star-cert
 * name: Congrats!
 * kind: completion
 * type: certificate
