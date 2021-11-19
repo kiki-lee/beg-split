@@ -27,7 +27,7 @@
 * next: star-activity2
 * url: /skillmap/star/star1 
 * imageUrl: /static/skillmap/star/star1.gif
-* position: -1 0
+* position: 0 0
 
 
 
@@ -39,7 +39,7 @@
 * next: star-activity3
 * url: /skillmap/star/clickert2 
 * imageUrl: /static/skillmap/star/star2.gif
-* position: 0 0
+* position: 1 0
 
 
 ### star-activity3
@@ -50,7 +50,7 @@
 * next: star-activity4
 * url: /skillmap/star/clickert3 
 * imageUrl: /static/star/star/star3.gif
-* position: 0 1
+* position: 1 1
 
 
 ### star-activity4
@@ -61,7 +61,7 @@
 * next: star-cert
 * url: /skillmap/star/clickert4 
 * imageUrl: /static/skillmap/star/star4.gif
-* position: 1 1
+* position: 2 1
 
 
 ### star-cert
@@ -76,6 +76,6 @@
 * rewards:
     * certificate: /static/skillmap/certificates/star-game.pdf
     * completion-badge: /static/badges/badge-star.png
-* position: 2 1
+* position: 3 1
 
 
