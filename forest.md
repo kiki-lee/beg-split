@@ -81,7 +81,7 @@
     * completion-badge: /static/badges/badge-forest.png
 * actions:
     * map: [Try the Jungle Monkey Skillmap](/skillmap/jungle)
-    * map: [Try the Space Explorer Skillmap](/skillmap/space)
+    * editor: [Edit Your Project with a Full Toolbox] ()
     
 
 
