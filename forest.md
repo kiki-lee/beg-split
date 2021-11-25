@@ -80,8 +80,6 @@
     * certificate: /static/skillmap/certificates/forest-cert.pdf
     * completion-badge: /static/badges/badge-forest.png
 
-    
-
 
 ### forest6
 * name: Keep Going!
