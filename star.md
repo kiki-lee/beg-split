@@ -2,7 +2,7 @@
 * name: Sing 2 - The Big Stage
 * description: Learn to create a clicker game and quickly rack up the points as you applaud your favorite stars from Sing 2.
 * infoUrl: skillmap/educator-info/star-map-info
-* bannerUrl: /static/skillmap/backgrounds/star4.gif
+* bannerUrl: /static/skillmap/star/star4.gif
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/star-comp.png?raw=true  
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
