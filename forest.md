@@ -79,9 +79,7 @@
 * rewards:
     * certificate: /static/skillmap/certificates/forest-cert.pdf
     * completion-badge: /static/badges/badge-forest.png
-* actions:
-    * map: [Try the Jungle Monkey Skillmap](/skillmap/jungle)
-    * editor: [Edit Your Project with a Full Toolbox] ()
+
     
 
 
