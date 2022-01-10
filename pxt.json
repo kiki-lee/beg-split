@@ -1,5 +1,5 @@
 {
-    "name": "beg-split-4",
+    "name": "beg-split-5",
     "version": "0.0.157",
     "description": "",
     "dependencies": {
@@ -28,7 +28,8 @@
         "turkey.md",
         "whatever.md",
         "star.md",
-        "star-info.md"
+        "star-info.md",
+        "racer.md"
     ],
     "testFiles": [
         "test.ts"
