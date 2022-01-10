@@ -4,12 +4,12 @@
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/racer-comp.gif?raw=true
 * bannerurl: /static/skillmap/racer/racer3.gif
 
-* primarycolor: #ff93c4
+* primarycolor: ##fb92c4
 * secondarycolor: #fdf60c
-* tertiarycolor: #161112
+* tertiarycolor: #111111
 * strokecolor: #ffffff
 * highlightcolor: #ffffff
-* completednodecolor: #3b3738
+* completednodecolor: #504c52
 
 ## Monster Racer
 * name: Monster Racer
