@@ -4,7 +4,7 @@
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/racer-comp.gif?raw=true
 * bannerurl: /static/skillmap/racer/racer3.gif
 
-* primarycolor: ##fb92c4
+* primarycolor: #fb92c4
 * secondarycolor: #fdf60c
 * tertiarycolor: #111111
 * strokecolor: #ffffff
