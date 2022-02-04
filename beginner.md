@@ -15,8 +15,7 @@
 
 
 ## Learn to Use Arcade Tutorial
-* name: Learn to Use MakeCode Arcade
-* description: Start here if you want to know the ins and outs of Arcade tutorials!
+* layout: manual
 
 ### interface-activity1
 * allowcodecarryover: false
@@ -24,12 +23,10 @@
 * name: Get to Know MakeCode Arcade
 * type: tutorial
 * description: An optional introduction to the features and vocabulary used in Arcade tutorials.
-* tags: optional, easy, introduction
-
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/interface-activity-1.gif
-
-
+* tags: optional, easy, introduction
+* position: 0 -1
 
 
 
@@ -46,7 +43,7 @@
 * imageUrl: /static/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
 * next: story-activity2
-* position: 0 -1
+* position: 0 0
 
 
 ### story-activity2
