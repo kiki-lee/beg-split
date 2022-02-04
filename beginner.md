@@ -30,44 +30,36 @@
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/interface-activity-1.gif
 
-### pusherA
-* name: Blank node
-* kind: layout
-
-### pusherB
-* name: Blank node
-* kind: layout
-
-### pusherC
-* name: Blank node
-* kind: layout
 
 
 ## Greeting Cards and Jokes
 
 ### story-activity1
 * allowcodecarryover: false
+* layout: manual
 
 * name: Greeting Card
 * type: tutorial
 * description: Make an amazing greeting card in minutes!
-* tags: easy, story, creative, card
-* next: story-activity2
-
 * url: /skillmap/story/story1 
 * imageUrl: /static/skillmap/story/story-comp.png
+* tags: easy, story, creative, card
+* next: story-activity2
+* position: 0 0
+
 
 
 ### story-activity2
 * name: Bigger Greeting
 * type: tutorial
 * description: Add to your greeting card for a gift that keeps on giving!
-* tags: easy, card, creative, art
-* next: story-activity3
-* reqired: 1 story
-
 * url: /skillmap/story/story2 
 * imageUrl: /static/skillmap/story/story-activity-2.gif
+* tags: easy, card, creative, art
+* reqired: 1 story
+* next: story-activity3
+* position: 1 0
+
 
 
 ### story-activity3
@@ -75,22 +67,12 @@
 * allowcodecarryover: false
 * type: tutorial
 * description: Create your first Arcade story using a two-line joke!
-* tags: easy, story, joke, share
-* next: pusher2, beginner-cert-1
-
 * url: /skillmap/story/story3 
 * imageUrl: /static/skillmap/story/muffins.gif
+* tags: easy, story, joke, share
+* next: beginner-cert-1
+* position: 2 0
 
-
-
-
-### pusher1
-* name: Blank node
-* kind: layout
-
-### pusher2
-* name: Blank node
-* kind: layout
 
 
 ### beginner-cert-1
@@ -99,6 +81,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/writing-stories.pdf
 * imageUrl: /static/skillmap/certificates/story-cert.png
+* position: 3 1
 
 
 ## Make a Clicker Game
