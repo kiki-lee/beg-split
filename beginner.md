@@ -26,7 +26,7 @@
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/interface-activity-1.gif
 * tags: optional, easy, introduction
-* position: 0 -1
+* position: 0 0
 
 
 
@@ -43,7 +43,7 @@
 * imageUrl: /static/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
 * next: story-activity2
-* position: 0 0
+* position: 0 1
 
 
 ### story-activity2
@@ -55,7 +55,7 @@
 * tags: easy, card, creative, art
 * reqired: 1 story
 * next: story-activity3
-* position: 1 0
+* position: 1 1
 
 
 ### story-activity3
@@ -67,7 +67,7 @@
 * imageUrl: /static/skillmap/story/muffins.gif
 * tags: easy, story, joke, share
 * next: beginner-cert-1
-* position: 2 0
+* position: 2 1
 
 
 ### beginner-cert-1
@@ -76,7 +76,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/writing-stories.pdf
 * imageUrl: /static/skillmap/certificates/story-cert.png
-* position: 3 1
+* position: 3 2
 
 * rewards:
     * certificate: 
@@ -104,7 +104,7 @@
 * imageUrl: /static/skillmap/clicker/clicker-comp.png
 * tags: easy, clicker, game
 * next: clicker-activity2
-* position: 0 0
+* position: 0 1
 
 
 ### clicker-activity2
@@ -115,7 +115,7 @@
 * imageUrl: /static/skillmap/clicker/clickert2.gif
 * tags: easy, clicker, game, images
 * next: clicker-activity3
-* position: 1 0
+* position: 1 1
 
 
 ### clicker-activity3
@@ -126,7 +126,7 @@
 * imageUrl: /static/skillmap/clicker/clickert3.gif
 * tags: easy, clicker, projectiles
 * next: beginner-cert-2
-* position: 2 1
+* position: 2 2
 
 
 ### beginner-cert-2
@@ -136,7 +136,7 @@
 * url: /static/skillmap/certificates/clicker-game.pdf
 * imageUrl: /static/skillmap/certificates/clicker-cert.png
 
-* position: 3 1
+* position: 3 2
 
 * rewards:
     * certificate: 
@@ -163,7 +163,7 @@
 * imageUrl: /static/skillmap/collector/collector-comp.png
 * tags: easy, collector, game
 * next: collector-activity2 
-* position: 0 0
+* position: 0 1
 
 
 
@@ -178,7 +178,7 @@
 * imageUrl: /static/skillmap/collector/collectort2.gif
 * tags: easy, collector, game, projectiles
 * next: collector-activity3
-* position: 1 1
+* position: 1 2
 
 
 
@@ -191,7 +191,7 @@
 * imageUrl: /static/skillmap/collector/collectort3.gif
 * tags: easy, collector, game, collisions
 * next: collector-activity4
-* position: 2 1
+* position: 2 2
 
 
 
@@ -203,7 +203,7 @@
 * imageUrl: /static/skillmap/collector/collectort4.gif
 * tags: easy, game, animation
 * next: beginner-cert-3
-* position: 3 1
+* position: 3 2
 
 
 ### beginner-cert-3
@@ -212,6 +212,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/collector-game.pdf
 * imageUrl: /static/skillmap/certificates/collector-cert.png
+* position: 4 2
 
 * rewards:
     * certificate: 
@@ -221,5 +222,4 @@
         * image: /static/badges/badge-dino.png
         * name: Baby Dino
 
-* position: 4 1
 
