@@ -25,7 +25,6 @@
 * type: tutorial
 * description: An optional introduction to the features and vocabulary used in Arcade tutorials.
 * tags: optional, easy, introduction
-* next: pusherA, pusherB
 
 * url: /skillmap/interface/activity1 
 * imageUrl: /static/skillmap/interface/interface-activity-1.gif
@@ -82,6 +81,10 @@
 * url: /static/skillmap/certificates/writing-stories.pdf
 * imageUrl: /static/skillmap/certificates/story-cert.png
 * position: 3 1
+
+* rewards:
+    * certificate: /static/skillmap/certificates/writing-stories.pdf
+    * completion-badge: /static/badges/badge-story.png
 
 
 ## Make a Clicker Game
