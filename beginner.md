@@ -31,11 +31,13 @@
 
 
 
+
+
 ## Greeting Cards and Jokes
+* layout: manual
 
 ### story-activity1
 * allowcodecarryover: false
-* layout: manual
 
 * name: Greeting Card
 * type: tutorial
@@ -45,7 +47,6 @@
 * tags: easy, story, creative, card
 * next: story-activity2
 * position: 0 0
-
 
 
 ### story-activity2
@@ -60,7 +61,6 @@
 * position: 1 0
 
 
-
 ### story-activity3
 * name: Joking Around
 * allowcodecarryover: false
@@ -73,7 +73,6 @@
 * position: 2 0
 
 
-
 ### beginner-cert-1
 * name: Congrats!
 * kind: completion
@@ -83,11 +82,19 @@
 * position: 3 1
 
 * rewards:
-    * certificate: /static/skillmap/certificates/writing-stories.pdf
-    * completion-badge: /static/badges/badge-story.png
+    * certificate: 
+        * url: /static/skillmap/certificates/writing-stories.pdf
+        * preview: /static/skillmap/certificates/story-cert.png
+    * completion-badge:
+        * image: /static/badges/badge-story.png
+        * name: Greetings
+
+
+
 
 
 ## Make a Clicker Game
+* layout: manual
 * required: 1 story
 
 ### clicker-activity1
@@ -96,44 +103,33 @@
 * name: Clicker Game
 * type: tutorial
 * description: Make a simple clicker game in MakeCode Arcade!
-* tags: easy, clicker, game
-* next: clicker-activity2
-
 * url: /skillmap/clicker-themed/clickert1 
 * imageUrl: /static/skillmap/clicker/clicker-comp.png
-
+* tags: easy, clicker, game
+* next: clicker-activity2
+* position: 0 0
 
 
 ### clicker-activity2
 * name: Button Clicker
 * type: tutorial
 * description: Add a visual button to your clicker! 
-* tags: easy, clicker, game, images
-* next: pusher3, clicker-activity3
-
 * url: /skillmap/clicker-themed/clickert2 
 * imageUrl: /static/skillmap/clicker/clickert2.gif
+* tags: easy, clicker, game, images
+* next: clicker-activity3
+* position: 1 0
 
 
 ### clicker-activity3
 * name: Clicking Superstar
 * type: tutorial
 * description: Add code to make a spray of stars with each click!
-* tags: easy, clicker, projectiles
-* next: pusher3, beginner-cert-2
-
 * url: /skillmap/clicker-themed/clickert3 
 * imageUrl: /static/skillmap/clicker/clickert3.gif
-
-
-### pusher3
-* name: Blank node
-* kind: layout
-
-
-### pusher4
-* name: Blank node
-* kind: layout
+* tags: easy, clicker, projectiles
+* next: beginner-cert-2
+* position: 2 1
 
 
 ### beginner-cert-2
@@ -143,8 +139,21 @@
 * url: /static/skillmap/certificates/clicker-game.pdf
 * imageUrl: /static/skillmap/certificates/clicker-cert.png
 
+* position: 3 1
+
+* rewards:
+    * certificate: 
+        * url: /static/skillmap/certificates/clicker-game.pdf
+        * preview: /static/skillmap/certificates/clicker-cert.png
+    * completion-badge:
+        * image: /static/badges/badge-clicker.png
+        * name: Clicker
+
+
+
 
 ## Rescue the Baby Dinos 
+* layout: manual
 * required: 1 clicker
 
 ### collector-activity1
@@ -153,11 +162,13 @@
 * name: Dino Hoard
 * type: tutorial
 * description: Create a swarm of baby dinosaurs to run down the city streets.
-* tags: easy, collector, game
-* next: pusher5, collector-activity2 
-
 * url: /skillmap/collector-themed/collectort1 
 * imageUrl: /static/skillmap/collector/collector-comp.png
+* tags: easy, collector, game
+* next: collector-activity2 
+* position: 0 0
+
+
 
 
 
@@ -166,11 +177,12 @@
 * name: Save the Baby Dinos!
 * type: tutorial
 * description: Make a few simple changes to create a game where Momma Dino collects her babies to take them home.
-* tags: easy, collector, game, projectiles
-* next: collector-activity3
-
 * url: /skillmap/collector-themed/collectort2 
 * imageUrl: /static/skillmap/collector/collectort2.gif
+* tags: easy, collector, game, projectiles
+* next: collector-activity3
+* position: 1 1
+
 
 
 ### collector-activity3
@@ -178,11 +190,11 @@
 * name: Traffic Dodger
 * type: tutorial
 * description: Save the baby dinos before the cars get in the way!
-* tags: easy, collector, game, collisions
-* next: collector-activity4
-
 * url: /skillmap/collector-themed/collectort3
 * imageUrl: /static/skillmap/collector/collectort3.gif
+* tags: easy, collector, game, collisions
+* next: collector-activity4
+* position: 2 1
 
 
 
@@ -190,11 +202,13 @@
 * name: Animate It!
 * type: tutorial
 * description: Animate your characters to give them life!
-* tags: easy, game, animation
-* next: beginner-cert-3, pusher6, pusher7, pusher8
-
 * url: /skillmap/collector-themed/collectort4
 * imageUrl: /static/skillmap/collector/collectort4.gif
+* tags: easy, game, animation
+* next: beginner-cert-3
+* position: 3 1
+
+
 
 
 ### beginner-cert-3
@@ -203,23 +217,14 @@
 * type: certificate
 * url: /static/skillmap/certificates/collector-game.pdf
 * imageUrl: /static/skillmap/certificates/collector-cert.png
+
 * rewards:
-    * certificate: /static/skillmap/certificates/collector-game.pdf
-    * completion-badge: /static/badges/badge-beginner.png
+    * certificate: 
+        * url: /static/skillmap/certificates/collector-game.pdf
+        * preview: /static/skillmap/certificates/collector-cert.png
+    * completion-badge:
+        * image: /static/badges/badge-dino.png
+        * name: Baby Dino
 
+* position: 4 1
 
-### pusher5
-* name: Blank node
-* kind: layout
-
-### pusher6
-* name: Blank node
-* kind: layout
-
-### pusher7
-* name: Blank node
-* kind: layout
-
-### pusher8
-* name: Blank node
-* kind: layout
