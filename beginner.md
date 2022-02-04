@@ -46,7 +46,7 @@
 * imageUrl: /static/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
 * next: story-activity2
-* position: 0 0
+* position: 0 -1
 
 
 ### story-activity2
@@ -94,11 +94,11 @@
 
 
 ## Make a Clicker Game
+* required: 1 story
 * layout: manual
 
 ### clicker-activity1
 * allowcodecarryover: false
-* required: 1 story
 
 * name: Clicker Game
 * type: tutorial
@@ -153,11 +153,11 @@
 
 
 ## Rescue the Baby Dinos 
+* required: 1 clicker
 * layout: manual
 
 ### collector-activity1
 * allowcodecarryover: false
-* required: 1 clicker
 
 * name: Dino Hoard
 * type: tutorial
@@ -207,8 +207,6 @@
 * tags: easy, game, animation
 * next: beginner-cert-3
 * position: 3 1
-
-
 
 
 ### beginner-cert-3
