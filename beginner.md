@@ -95,10 +95,10 @@
 
 ## Make a Clicker Game
 * layout: manual
-* required: 1 story
 
 ### clicker-activity1
 * allowcodecarryover: false
+* required: 1 story
 
 * name: Clicker Game
 * type: tutorial
@@ -154,10 +154,10 @@
 
 ## Rescue the Baby Dinos 
 * layout: manual
-* required: 1 clicker
 
 ### collector-activity1
 * allowcodecarryover: false
+* required: 1 clicker
 
 * name: Dino Hoard
 * type: tutorial
