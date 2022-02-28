@@ -6,7 +6,7 @@
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/star-comp.png?raw=true
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
-* tertiarycolor: #94453f
+* tertiarycolor: #000000
 * completednodecolor: #442532
 * highlightcolor: #ffffff
 * allowcodecarryover: true
