@@ -1,19 +1,19 @@
-# Sing 2 - The Big Stage
-* name: Sing 2 - The Big Stage
-* description: Learn to create a clicker game and quickly rack up the points as you applaud your favorite stars from Sing 2.
+# Talent Show
+* name: Talent Show
+* description: Learn to create a clicker game and quickly rack up the points as you applaud the most talented animals.
 * infoUrl: skillmap/educator-info/star-map-info
 * bannerUrl: /static/skillmap/star/star4.gif
-* backgroundurl: /static/skillmap/backgrounds/star-comp.png
+* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/star-comp.png?raw=true
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
-* tertiarycolor: #02010b
+* tertiarycolor: #94453f
 * completednodecolor: #442532
 * highlightcolor: #ffffff
 * allowcodecarryover: true
 * tags: easy, beginner, tutorials
 
 
-## Sing 2 - The Big Stage
+## talent-show
 * layout: manual
 
 
@@ -22,7 +22,7 @@
 
 * name: Welcome to the Show
 * type: tutorial
-* description: Make a simple clicker game starring the characters from Sing 2!
+* description: Make a simple clicker game talent show starring your favorite animals!
 * tags: easy, clicker, points
 * next: star-activity2
 * url: /skillmap/star/star1
