@@ -1,5 +1,5 @@
 {
-    "name": "beg-split-6",
+    "name": "beg-split-6 - Copy",
     "version": "0.0.177",
     "description": "",
     "dependencies": {
@@ -30,7 +30,8 @@
         "star.md",
         "star-info.md",
         "racer.md",
-        "beginner.md"
+        "beginner.md",
+        "puzzle.md"
     ],
     "testFiles": [
         "test.ts"
