@@ -6,7 +6,7 @@
 * backgroundurl: /static/skillmap/backgrounds/cup-comp.png
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #e4cdc2
+* tertiarycolor: #ffffff
 * completednodecolor: #a4839e
 * highlightcolor: #ffff00
 * allowcodecarryover: true
