@@ -31,13 +31,14 @@
         "star-info.md",
         "racer.md",
         "beginner.md",
+        "cups.md",
         "puzzle.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.8.22",
+        "target": "1.8.26",
         "targetId": "arcade"
     },
     "supportedTargets": [
