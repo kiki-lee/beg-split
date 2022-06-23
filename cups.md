@@ -4,9 +4,9 @@
 * infoUrl: skillmap/educator-info/cup-map-info
 * bannerUrl: /static/skillmap/cups/cup3.gif
 * backgroundurl: /static/skillmap/backgrounds/cup-comp.png
-* primarycolor: #ff7f41
+* primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #000000
+* tertiarycolor: #e4cdc2
 * completednodecolor: #4d3740
 * highlightcolor: #ffffff
 * allowcodecarryover: true
@@ -24,7 +24,7 @@
 * type: tutorial
 * description: Make a simple clicker game talent show starring your favorite animals!
 * tags: easy, clicker, points
-* next: star-activity2
+* next: cup2
 * url: /skillmap/star/star1
 * imageUrl: /static/skillmap/star/star1.gif
 * position: 0 0
@@ -36,7 +36,7 @@
 * type: tutorial
 * description: Add an audience that applauds as you click!
 * tags: easy, clicker, game, events
-* next: star-activity3
+* next: cup3
 * url: /skillmap/star/star2
 * imageUrl: /static/skillmap/star/star2.gif
 * position: 1 0
@@ -47,7 +47,7 @@
 * type: tutorial
 * description: Add code to create a spray of stars with each click!
 * tags: easy, clicker, projectiles
-* next: star-activity4
+* next: cup-cert
 * url: /skillmap/star/star3
 * imageUrl: /static/skillmap/star/star3.gif
 * position: 1 1
