@@ -84,4 +84,4 @@
 * tags: easy, clicker, sprite, buttons, multiplayer
 * url: /skillmap/balloon/balloon4
 * imageUrl: /static/skillmap/balloon/balloon4.gif
-* position: 2 3
+* position: 2 3 
