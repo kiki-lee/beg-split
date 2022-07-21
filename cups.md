@@ -8,7 +8,7 @@
 * secondarycolor: #fff53d
 * tertiarycolor: #ffffff
 * completednodecolor: #a4839e
-* highlightcolor: #ffff00
+* highlightcolor: #ff0000
 * allowcodecarryover: true
 * tags: easy, beginner, tutorials
 
