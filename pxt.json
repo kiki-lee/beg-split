@@ -1,6 +1,6 @@
 {
     "name": "beg-split-6",
-    "version": "0.0.183",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*",
