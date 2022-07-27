@@ -33,7 +33,8 @@
         "beginner.md",
         "cups.md",
         "puzzle.md",
-        "balloon.md"
+        "balloon.md",
+        "mole.md"
     ],
     "testFiles": [
         "test.ts"
