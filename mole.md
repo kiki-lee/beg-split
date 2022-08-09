@@ -7,7 +7,7 @@
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
 * tertiarycolor: #82cd54
-* completednodecolor: #4a8397
+* completednodecolor: #604c4e
 * highlightcolor: #ff0000
 * allowcodecarryover: true
 * tags: easy, beginner, carnival
