@@ -3,10 +3,10 @@
 * description: Create your own 'Whack-a-Mole' style of carnival game.
 * infoUrl: skillmap/educator-info/mole-map-info
 * bannerUrl: /static/skillmap/mole/mole3.gif
-* backgroundurl: /static/skillmap/backgrounds/mole-comp.png
+* backgroundurl: https://raw.githubusercontent.com/clkantner/whack/master/skillmap2-final.gif
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #bbeffe
+* tertiarycolor: #82cd54
 * completednodecolor: #4a8397
 * highlightcolor: #ff0000
 * allowcodecarryover: true
@@ -22,35 +22,35 @@
 
 * name: Mole Hunt
 * type: tutorial
-* description: Learn to use MakeCode Arcade and add a character sprite to your project.
+* description: Learn to use MakeCode Arcade and add a moving character sprite to your project.
 * tags: intermediate, sprite, clicker
 * next: mole2
 * url: /skillmap/mole/mole1
 * imageUrl: /static/skillmap/mole/mole1.gif
-* position: -1 2
+* position: -1 1
 
 
 
 ### mole2
-* name: Whack'em
+* name: Hammer Time
 * type: tutorial
-* description: Add a hammer to help you catch the mole!
+* description: Add a rubber hammer to tag the mole and earn points!
 * tags: intermediate, clicker, sprite, events
 * next: mole3
 * url: /skillmap/mole/mole2
 * imageUrl: /static/skillmap/mole/mole2.gif
-* position: 0 2
+* position: 0 1
 
 
 ### mole3
 * name: Get Animated
 * type: tutorial
-* description: Add sound and animation!
+* description: Add sound and animation to polish your game!
 * tags: easy, clicker, sprite, buttons
 * next: mole-cert
 * url: /skillmap/mole/mole3
 * imageUrl: /static/skillmap/backgrounds/mouse-comp.png
-* position: 1 2
+* position: 1 1
 
 
 
@@ -61,8 +61,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/mole-cert.pdf
 * imageUrl: /static/skillmap/certificates/mole-cert.png
-* next: mole4
-* position: 2 2
+* position: 1 0
 * actions:
     * map: [Finish the Last Level!](/skillmap/mole)
     * editor: [Edit Your Project with a Full Toolbox](/)
@@ -74,14 +73,3 @@
         * image: /static/badges/badge-mole.png
         * name: Whack'em Mole
 
-
-
-
-### mole4
-* name: Fancy Booth
-* type: tutorial
-* description: Add extra decorations to your game to lure in carnival goers.
-* tags: intermediate, clicker, sprite, buttons
-* url: /skillmap/mole/mole4
-* imageUrl: /static/skillmap/mole/mole4.gif
-* position: 2 3
