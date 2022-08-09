@@ -61,7 +61,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/mole-cert.pdf
 * imageUrl: /static/skillmap/certificates/mole-cert.png
-* position: 1 0
+* position: 2 0
 * actions:
     * map: [Finish the Last Level!](/skillmap/mole)
     * editor: [Edit Your Project with a Full Toolbox](/)
