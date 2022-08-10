@@ -45,26 +45,24 @@ After completing Whack-em-Mole, students will have gained exposure to all the el
 | Activity | Mole Hunt (18 min) |
 |---|---|
 | ![Mole Hunt thumbnail](/static/skillmap/mole/mole1.gif) | Learn to use MakeCode Arcade and add a moving character sprite to your project. |
-| Blocks used |  ``[scene.setBackgroundImage(img`.`)]`` <br/> ``[let mySprite = sprites.create(img`.`, SpriteKind.Player)]`` <br/> ``[game.onUpdateInterval(1000, function () {}]``|
+| Blocks used |  ``[scene.setBackgroundImage(img`.`)]`` <br/> ``[let mySprite = sprites.create(img`.`, SpriteKind.Enemy)]`` <br/> ``[game.onUpdateInterval(1000, function () {}]``|
 | Solution option | [Mole Hunt Project](https://makecode.com/_4WPAes5LMe9z) |
 
 #### 2. Hammer Time
 
-| Activity | Hammer Time (10 min) |
+| Activity | Hammer Time (12 min) |
 |---|---|
 | ![Hammer Time thumbnail](/static/skillmap/mole/mole2.gif) | Add a rubber hammer to tag the mole and earn points! |
-| Blocks used | ``[let mySprite = sprites.create(img`.`, SpriteKind.Player)]``<br/>``[controller.A.onEvent(ControllerButtonEvent.Pressed, function () {})]``|
-| Solution option | [Hammer Time Project](https://makecode.com/_WY823cfoyTwj) |
+| Blocks used | ``[let mySprite = sprites.create(img`.`, SpriteKind.Player)]`` <br/> ``[sprites.move_to_random_hole_on_grid(mySprite)]`` <br/>  ``[controller.move_only_onscreen_with_arrows(myHammer, speeds.Fast)]`` <br/> ``[sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {})]`` <br/> ``[info.startCountdownGame(20, winTypes.Score, effects.confetti)]`` <br/> ``[info.changeScoreBy(1)]`` <br/> ``[sprites.move_to_random_hole_on_grid(mySprite)]`` |
+| Solution option | [Hammer Time Project](https://makecode.com/_3kzWrvbA51PL) |
 
 #### 3. Get Animated
 
 | Activity | Get Animated (15 min) |
 |---|---|
 | ![Get Animated thumbnail](/static/skillmap/mole/mole3.gif) | Add sound and animation to polish your game! |
-| Blocks used | ``[sprites.create(img`.`, SpriteKind.Player).startEffect(effects.spray, 100)]`` |
-| Solution option | [Get Animated Project](https://makecode.com/_3gs2oWTCHXuw) |
-
-
+| Blocks used | ``[music.knock.play()]`` <br/> ``[animation.runImageAnimationHammer(myHammer,[img`.`],100,false)]`` <br/>``[scene.add_label_to("Whack-em-Mole", areas.Bottom)]`` |
+| Solution option | [Get Animated Project](https://makecode.com/_PCKW94TVLMpA) |
 
 
 ##### Game Mod Ideas
@@ -82,3 +80,9 @@ After completing Whack-em-Mole, students can move on to the following activities
 
 * [Burstin' Balloons](https://arcade.makecode.com/--skillmap#docs:/skillmap/balloon)
 * [Space Explorer](https://arcade.makecode.com/--skillmap#docs:/skillmap/space)
+
+
+```package
+simple-blocks=github:microsoft/arcade-tutorial-extensions/simple-blocks/
+arcade-text=github:microsoft/arcade-text/
+```
