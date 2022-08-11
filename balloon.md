@@ -1,5 +1,5 @@
-# Balloon Race
-* name: Balloon Race
+# Burstin' Balloons
+* name: Burstin' Balloons
 * description: Create a simple carnival game where you click quickly to try to burst a balloon before time runs out.
 * infoUrl: skillmap/educator-info/balloon-map-info
 * bannerUrl: /static/skillmap/balloon/balloon3.gif
@@ -13,14 +13,14 @@
 * tags: easy, beginner, carnival
 
 
-## balloon-race
+## burstin-balloons
 * layout: manual
 
 
 ### balloon1
 * allowcodecarryover: false
 
-* name: Let's Get Clicking
+* name: Create a Clicker
 * type: tutorial
 * description: Learn to use MakeCode Arcade and create a simple clicker game.
 * tags: easy, intro, points, clicker
@@ -34,7 +34,7 @@
 ### balloon2
 * name: Burst Your Balloon
 * type: tutorial
-* description: Add a balloon that inflates as you click!
+* description: Add a balloon that inflates as you click! You'll be shocked to see how full it gets before time runs out.
 * tags: easy, clicker, sprite, events
 * next: balloon3
 * url: /skillmap/balloon/balloon2
@@ -45,7 +45,7 @@
 ### balloon3
 * name: Pump it Up
 * type: tutorial
-* description: Add a carnival character to pump up your balloon!
+* description: Add a carnival character to pump up your balloon! Can you beat the clock?
 * tags: easy, clicker, sprite, buttons
 * next: balloon-cert
 * url: /skillmap/balloon/balloon3
@@ -78,10 +78,11 @@
 
 
 ### balloon4
-* name: Two Player
+* name: Two Player Party (Optional)
 * type: tutorial
-* description: Remove your timer and add a second player to compete against.
+* description: Remove your timer and add a second player to create a real-life competition!
 * tags: easy, clicker, sprite, buttons, multiplayer
 * url: /skillmap/balloon/balloon4
 * imageUrl: /static/skillmap/balloon/balloon4.gif
-* position: 2 3 
+* position: 2 3
+
