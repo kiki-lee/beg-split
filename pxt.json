@@ -35,7 +35,8 @@
         "puzzle.md",
         "balloon.md",
         "mole.md",
-        "mole_ed.md"
+        "mole_ed.md",
+        "balloon_edu.md"
     ],
     "testFiles": [
         "test.ts"
