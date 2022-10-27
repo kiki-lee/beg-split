@@ -61,7 +61,7 @@
 * next: mole-cert
 * url: /test/skillmap/mole/mole4
 * imageUrl: /static/skillmap/mole/mole3.gif
-* position: 2 1
+* position: 1 0
 
 
 ### mole-cert
