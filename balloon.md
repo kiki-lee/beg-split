@@ -25,7 +25,7 @@
 * description: Learn to use MakeCode Arcade and create a simple clicker game.
 * tags: easy, intro, points, clicker
 * next: balloon2
-* url: test/skillmap/balloon/balloon1
+* url: /test/skillmap/balloon/balloon1
 * imageUrl: /static/skillmap/balloon/balloon1.gif
 * position: -1 2
 
