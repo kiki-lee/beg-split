@@ -6,8 +6,8 @@
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/adventure-comp1.png?raw=true
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #82cd54
-* completednodecolor: #604c4e
+* tertiarycolor: #b1dcef
+* completednodecolor: #2f484d
 * highlightcolor: #ff0000
 * allowcodecarryover: true
 * tags: creative, intermediate, conditionals
@@ -22,23 +22,23 @@
 
 * name: Rolling Dice
 * type: tutorial
-* description: Use a roll of the die to figure out what adventures your player will have.
-* tags: random, conditionals
+* description: Code your own 20-sided die to begin your adventure.
+* tags: random, text
 * next: adventure2
 * url: /test/skillmap/adventure/adventure1
-* imageUrl: /static/skillmap/adventure/adventure1.gif
+* imageUrl: https://media.giphy.com/media/XbidWpczmwrmtnJ01e/giphy.gif
 * position: 0 2
 
 
 
 ### adventure2
-* name: Rolling Dice
+* name: Start Your Journey
 * type: tutorial
 * description: Use a roll of the die to figure out what adventures your player will have.
 * tags: random, conditionals
 * next: adventure3
 * url: /test/skillmap/adventure/adventure2
-* imageUrl: /static/skillmap/adventure/adventure2.gif
+* imageUrl: https://media.giphy.com/media/5Ur2TK63wEciypxyHG/giphy.gif
 * position: 1 2
 
 
