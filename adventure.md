@@ -10,7 +10,7 @@
 * completednodecolor: #2f484d
 * highlightcolor: #ff0000
 * allowcodecarryover: true
-* tags: creative, intermediate, conditionals
+* tags: creative, intermediate, conditionals 
 
 
 ## adventure
