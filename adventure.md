@@ -2,7 +2,7 @@
 * name: Your Big Adventure
 * description: Code your own text-based adventure based on the movie Dungeons & Dragons: Honor Among Thieves
 * infoUrl: skillmap/educator-info/adventure-info
-* bannerUrl: https://giphy.com/gifs/DnDMovie-dnd-dungeons-and-dragons-dndmovie-MFTM60eqYwl6RyEKHI
+* bannerUrl: https://media.giphy.com/media/oPp3DLbHzo8jSLyXYW/giphy.gif
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/adventure-comp1.png?raw=true
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
