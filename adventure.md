@@ -24,7 +24,7 @@
 * type: tutorial
 * description: Use a roll of the die to figure out what adventures your player will have.
 * tags: random, conditionals
-* next: mole2
+* next: adventure2
 * url: /test/skillmap/adventure/adventure1
 * imageUrl: /static/skillmap/adventure/adventure1.gif
 * position: 0 2
@@ -36,7 +36,7 @@
 * type: tutorial
 * description: Use a roll of the die to figure out what adventures your player will have.
 * tags: random, conditionals
-* next: mole3
+* next: adventure3
 * url: /test/skillmap/adventure/adventure2
 * imageUrl: /static/skillmap/adventure/adventure2.gif
 * position: 1 2
@@ -47,7 +47,7 @@
 * type: tutorial
 * description: Finish your game by adding a thrilling carnival sound and real frame-by-frame animations!
 * tags: easy, clicker, sprite, buttons
-* next: mole4
+* next: adventure4
 * url: /test/skillmap/adventure/adventure3
 * imageUrl: /static/skillmap/adventure/adventure3.gif
 * position: 1 1
@@ -59,7 +59,7 @@
 * type: tutorial
 * description: Want to play with friends? A few simple changes will have you playing chase in no time!
 * tags: easy, clicker, multiplayer, buttons
-* next: mole-cert
+* next: adventure-cert
 * url: /test/skillmap/adventure/adventure4
 * imageUrl: /static/skillmap/adventure/adventure3.gif
 * position: 2 1
@@ -82,4 +82,4 @@
         * preview: /static/skillmap/certificates/mole-cert.png
     * completion-badge:
         * image: /static/badges/badge-mole.png
-        * name: Whack-the-Mole
+        * name: Code Adventure
