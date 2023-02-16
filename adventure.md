@@ -1,16 +1,16 @@
 # Text-Adventure
 * name: Your Big Adventure
-* description: Code your own text-based adventure based on the movie Dungeons & Dragons: Honor Among Thieves
+* description: Code your own text-based adventure inspired by the movie Dungeons & Dragons: Honor Among Thieves
 * infoUrl: skillmap/educator-info/adventure-info
 * bannerUrl: https://media.giphy.com/media/oPp3DLbHzo8jSLyXYW/giphy.gif
-* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/adventure-comp1.png?raw=true
+* backgroundurl: /static/skillmap/backgrounds/adventure-comp1.png
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
 * tertiarycolor: #b1dcef
 * completednodecolor: #2f484d
 * highlightcolor: #ff0000
 * allowcodecarryover: true
-* tags: creative, intermediate, conditionals 
+* tags: creative, intermediate, conditionals
 
 
 ## adventure
@@ -38,7 +38,7 @@
 * tags: random, conditionals
 * next: adventure3
 * url: /test/skillmap/adventure/adventure2
-* imageUrl: https://media.giphy.com/media/5Ur2TK63wEciypxyHG/giphy.gif
+* imageUrl: https://media.giphy.com/media/fYru9bLqxEeTqyBmRg/giphy.gif
 * position: 1 2
 
 
@@ -49,20 +49,10 @@
 * tags: easy, clicker, sprite, buttons
 * next: adventure4
 * url: /test/skillmap/adventure/adventure3
-* imageUrl: /static/skillmap/adventure/adventure3.gif
+* imageUrl: https://media.giphy.com/media/zRW20g1KJpzQg8rbcE/giphy.gif
 * position: 1 1
 
 
-
-### adventure4
-* name: Play with Friends
-* type: tutorial
-* description: Want to play with friends? A few simple changes will have you playing chase in no time!
-* tags: easy, clicker, multiplayer, buttons
-* next: adventure-cert
-* url: /test/skillmap/adventure/adventure4
-* imageUrl: /static/skillmap/adventure/adventure3.gif
-* position: 2 1
 
 
 ### adventure-cert
