@@ -47,7 +47,7 @@
 * type: tutorial
 * description: Finish your game by adding a thrilling carnival sound and real frame-by-frame animations!
 * tags: easy, clicker, sprite, buttons
-* next: adventure4
+* next: adventure-cert
 * url: /test/skillmap/adventure/adventure3
 * imageUrl: https://media.giphy.com/media/zRW20g1KJpzQg8rbcE/giphy.gif
 * position: 1 1
