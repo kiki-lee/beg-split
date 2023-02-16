@@ -26,7 +26,7 @@
 * tags: random, text
 * next: adventure2
 * url: /test/skillmap/adventure/adventure1
-* imageUrl: https://media.giphy.com/media/XbidWpczmwrmtnJ01e/giphy.gif
+* imageUrl: https://media.giphy.com/media/q6X5yJOC1nupZmKdo9/giphy.gif
 * position: 1 2
 
 
