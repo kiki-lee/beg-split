@@ -27,7 +27,7 @@
 * next: adventure2
 * url: /test/skillmap/adventure/adventure1
 * imageUrl: https://media.giphy.com/media/XbidWpczmwrmtnJ01e/giphy.gif
-* position: 0 2
+* position: 1 0
 
 
 
@@ -39,7 +39,7 @@
 * next: adventure3
 * url: /test/skillmap/adventure/adventure2
 * imageUrl: https://media.giphy.com/media/fYru9bLqxEeTqyBmRg/giphy.gif
-* position: 1 2
+* position: 1 1
 
 
 ### adventure3
@@ -50,7 +50,7 @@
 * next: adventure-cert
 * url: /test/skillmap/adventure/adventure3
 * imageUrl: https://media.giphy.com/media/zRW20g1KJpzQg8rbcE/giphy.gif
-* position: 1 1
+* position: 2 1
 
 
 
@@ -62,7 +62,7 @@
 * url: /static/skillmap/certificates/mole-cert.pdf
 * imageUrl: /static/skillmap/certificates/mole-cert.png
 * showMultiplayerShare: true
-* position: 2 0
+* position: 2 2
 * actions:
     * map: [Try Burstin' Balloons](/skillmap/balloon)
     * editor: [Open in Creative Mode](/)
