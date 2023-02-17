@@ -37,7 +37,8 @@
         "mole.md",
         "mole_ed.md",
         "balloon_edu.md",
-        "adventure.md"
+        "adventure.md",
+        "arcade-info.md"
     ],
     "testFiles": [
         "test.ts"
