@@ -26,7 +26,7 @@
 * url: /test/skillmap/story/story1
 * imageUrl: /static/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
-* next: story-activity2
+* next: story2
 * position: 0 0
 
 
@@ -38,7 +38,7 @@
 * imageUrl: /static/skillmap/story/story-activity-2.gif
 * tags: easy, card, creative, art
 * reqired: 1 story
-* next: story-activity3
+* next: story3
 * position: 1 0
 
 
