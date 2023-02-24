@@ -26,8 +26,8 @@
 * url: /test/skillmap/story/story1
 * imageUrl: /static/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
-* next: story2
 * position: 0 0
+
 
 
 ### story2
@@ -38,8 +38,8 @@
 * imageUrl: /static/skillmap/story/story-activity-2.gif
 * tags: easy, card, creative, art
 * reqired: 1 story
-* next: story3
 * position: 1 0
+
 
 
 ### story3
@@ -50,8 +50,8 @@
 * url: /test/skillmap/story/story3
 * imageUrl: /static/skillmap/story/muffins.gif
 * tags: easy, story, joke, share
-* next: story4
 * position: 2 0
+
 
 
 ### story4
@@ -62,8 +62,8 @@
 * url: /test/skillmap/story/story4
 * imageUrl: /static/skillmap/story/story-activity-4.gif
 * tags: easy, story, share
-* next: beginner-cert-1
-* position: 2 1
+* position: 3 0
+
 
 
 ### beginner-cert-1
@@ -72,7 +72,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/beginner-cert-01.pdf
 * imageUrl: /static/skillmap/certificates/beginner-cert-01.png
-* position: 3 1
+* position: 4 0
 * actions:
     * map: [Try Talent Show](/skillmap/star)
     * editor: [Edit in Creative Mode](/)
