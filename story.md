@@ -14,7 +14,7 @@
 
 
 
-## story-activities
+## story-activities1
 * layout: manual
 
 ### story1
@@ -26,10 +26,12 @@
 * url: /test/skillmap/story/story1
 * imageUrl: /static/skillmap/story/story-comp.png
 * tags: easy, story, creative, card
-* next: story2
 * position: 0 0
 
 
+
+## story-activities2
+* layout: manual
 
 ### story2
 * name: Bigger Greeting
@@ -38,11 +40,13 @@
 * url: /test/skillmap/story/story2
 * imageUrl: /static/skillmap/story/story-activity-2.gif
 * tags: easy, card, creative, art
-* next: story3
 * reqired: 1 story
 * position: 1 0
 
 
+
+## story-activities3
+* layout: manual
 
 ### story3
 * name: Joking Around
@@ -52,11 +56,13 @@
 * url: /test/skillmap/story/story3
 * imageUrl: /static/skillmap/story/muffins.gif
 * tags: easy, story, joke, share
-* next: story4
 * reqired: 2 story
 * position: 2 0
 
 
+
+## story-activities4
+* layout: manual
 
 ### story4
 * name: The Shortest Story
@@ -66,11 +72,12 @@
 * url: /test/skillmap/story/story4
 * imageUrl: /static/skillmap/story/story-activity-4.gif
 * tags: easy, story, share
-* next: beginner-cert-1
 * reqired: 3 story
 * position: 3 0
 
 
+## story-cert
+* layout: manual
 
 ### beginner-cert-1
 * name: Congrats!
