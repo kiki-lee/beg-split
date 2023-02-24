@@ -4,10 +4,10 @@
 * infoUrl: skillmap/educator-info/story-map-info
 * bannerUrl: /static/skillmap/story/muffins.gif
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/story-comp.png?raw=true
-* primarycolor: #ff7f41
+* primarycolor: #28f1f6
 * secondarycolor: #fff53d
-* tertiarycolor: #000000
-* completednodecolor: #4d3740
+* tertiarycolor: #dfffff
+* completednodecolor: #3b5c6c
 * highlightcolor: #ffffff
 * allowcodecarryover: true
 * tags: easy, beginner, tutorials
