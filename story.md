@@ -3,7 +3,7 @@
 * description: Show off your creative side with greeting cards, jokes, and short stories.
 * infoUrl: skillmap/educator-info/story-map-info
 * bannerUrl: /static/skillmap/story/muffins.gif
-* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/story-comp.png?raw=true
+* backgroundurl: /static/skillmap/backgrounds/story-comp.png
 * primarycolor: #28f1f6
 * secondarycolor: #fff53d
 * tertiarycolor: #dfffff
