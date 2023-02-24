@@ -1,5 +1,5 @@
 {
-    "name": "beg-split-6",
+    "name": "beg-split-6 - Copy",
     "version": "0.3.12",
     "description": "",
     "dependencies": {
@@ -38,13 +38,14 @@
         "mole_ed.md",
         "balloon_edu.md",
         "adventure.md",
-        "arcade-info.md"
+        "arcade-info.md",
+        "story.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.21",
+        "target": "1.12.22",
         "targetId": "arcade"
     },
     "supportedTargets": [
