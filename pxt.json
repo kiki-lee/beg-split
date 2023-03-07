@@ -39,13 +39,14 @@
         "balloon_edu.md",
         "adventure.md",
         "arcade-info.md",
-        "story.md"
+        "story.md",
+        "dino.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.22",
+        "target": "1.12.24",
         "targetId": "arcade"
     },
     "supportedTargets": [
