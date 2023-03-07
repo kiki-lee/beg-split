@@ -69,7 +69,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/beginner-cert-03.pdf
 * imageUrl: /static/skillmap/certificates/beginner-cert-03.png
-* position: 4 1
+* position: 3 2
 
 * rewards:
     * certificate:
