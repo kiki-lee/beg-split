@@ -3,7 +3,7 @@
 * description: Learn to create a collector-style game starring a dinosuar that's determined to save dino babies!
 * infoUrl: skillmap/educator-info/dino-map-info
 * bannerUrl: /static/skillmap/backgrounds/beg-map-tile.png
-* backgroundurl: /static/skillmap/backgrounds/dino-comp.png
+* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/dino-comp.png?raw=true
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
 * tertiarycolor: #87f2ff
