@@ -1,70 +1,61 @@
-# Talent Show
-* name: Talent Show
-* description: Learn to create a clicker game and quickly rack up the points as you applaud the most talented animals.
-* infoUrl: skillmap/educator-info/star-map-info
-* bannerUrl: /static/skillmap/star/star4.gif
-* backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/star-comp.png?raw=true
-* primarycolor: #ff7f41
+# Pick-a-Cup
+* name: Pick-a-Cup
+* description: Create a simple carnival game where you shuffle three cups, then guess which cup is hiding the ball.
+* infoUrl: skillmap/educator-info/cup-map-info
+* bannerUrl: /static/skillmap/cups/cup3.gif
+* backgroundurl: /static/skillmap/backgrounds/cup-comp.png
+* primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #000000
-* completednodecolor: #442532
-* highlightcolor: #ffffff
+* tertiarycolor: #ffffff
+* completednodecolor: #a4839e
+* highlightcolor: #ff0000
 * allowcodecarryover: true
 * tags: easy, beginner, tutorials
 
 
-## talent-show
+## pick-a-cup
 * layout: manual
 
 
-### star-activity1
+### cup1
 * allowcodecarryover: false
 
 * name: Welcome to the Show
 * type: tutorial
 * description: Make a simple clicker game talent show starring your favorite animals!
 * tags: easy, clicker, points
-* next: star-activity2
+* next: cup2
 * url: /skillmap/star/star1
 * imageUrl: /static/skillmap/star/star1.gif
 * position: 0 0
 
 
 
-### star-activity2
+### cup2
 * name: Join the Audience
 * type: tutorial
 * description: Add an audience that applauds as you click!
 * tags: easy, clicker, game, events
-* next: star-activity3
+* next: cup3
 * url: /skillmap/star/star2
 * imageUrl: /static/skillmap/star/star2.gif
 * position: 1 0
 
 
-### star-activity3
+### cup3
 * name: The Biggest Star
 * type: tutorial
 * description: Add code to create a spray of stars with each click!
 * tags: easy, clicker, projectiles
-* next: star-activity4
+* next: cup-cert
 * url: /skillmap/star/star3
 * imageUrl: /static/skillmap/star/star3.gif
 * position: 1 1
 
 
-### star-activity4
-* name: Coming Up Roses
-* type: tutorial
-* description: Toss a mix of stars and roses at the stage as you learn about arrays!
-* tags: easy, clicker, projectiles, arrays
-* next: star-cert
-* url: /skillmap/star/star4
-* imageUrl: /static/skillmap/star/star4.gif
-* position: 2 1
 
 
-### star-cert
+### cup-cert
 * name: Congrats!
 * kind: completion
 * type: certificate

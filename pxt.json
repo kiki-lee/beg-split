@@ -1,6 +1,6 @@
 {
-    "name": "beg-split-4",
-    "version": "0.0.157",
+    "name": "beg-split-6 - Copy",
+    "version": "0.4.13",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -30,12 +30,26 @@
         "star-info.md",
         "racer.md",
         "galaxy.md"
+
+        "beginner.md",
+        "cups.md",
+        "puzzle.md",
+        "balloon.md",
+        "mole.md",
+        "mole_ed.md",
+        "balloon_edu.md",
+        "adventure.md",
+        "arcade-info.md",
+        "story.md",
+        "dino.md"
+
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
         "target": "1.12.26",
+
         "targetId": "arcade"
     },
     "supportedTargets": [
