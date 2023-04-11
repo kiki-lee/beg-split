@@ -24,12 +24,13 @@
         "forestBase.md",
         "forest.md",
         "forest-educator-info.md",
-        "forest-special.ts",
         "turkey.md",
         "whatever.md",
         "star.md",
         "star-info.md",
         "racer.md",
+        "galaxy.md"
+
         "beginner.md",
         "cups.md",
         "puzzle.md",
@@ -41,12 +42,14 @@
         "arcade-info.md",
         "story.md",
         "dino.md"
+
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.24",
+        "target": "1.12.26",
+
         "targetId": "arcade"
     },
     "supportedTargets": [
